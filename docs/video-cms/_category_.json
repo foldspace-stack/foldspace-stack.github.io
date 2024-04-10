@@ -1,8 +1,8 @@
 {
   "label": "Video-Cms-Studio",
-  "position": 20,
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "文字和视频的媒体工作台"
   }
 }
