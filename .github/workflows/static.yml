@@ -32,12 +32,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v4
+      - name: Use Node.js v20.11.0
+        uses: actions/setup-node@v3
+        with:
+          node-version: v20.11.0
+          cache: 'npm'
+      - run: npm install
+      - run: npm run build # -- --locale zh-CN
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: '.'
+          path: 'build'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
