@@ -116,7 +116,11 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/foldspace-stack/foldspace-stack.github.io',
+            },
+            {
+              label: 'Ci',
+              href: 'https://github.com/foldspace-stack/foldspace-stack.github.io/actions/workflows/static.yml',
             },
           ],
         },
