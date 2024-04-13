@@ -60,8 +60,8 @@ const config: Config = {
     navbar: {
       title: "Foldspace-Stack",
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: "FoldSpace",
+        src: "img/foldspace-icon.png",
       },
       items: [
         {
