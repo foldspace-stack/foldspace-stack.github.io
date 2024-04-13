@@ -149,6 +149,7 @@
   },
   "active": "5cfce913abf1035a",
   "lastOpenFiles": [
+    "CNAME",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/sitemap.xml",
@@ -159,7 +160,6 @@
     "build/docs/ubcp/manage-docs-versions/index.html",
     "build/docs/technology/intro/index.html",
     "build/docs/services/video-cms/intro",
-    "build/docs/frameworks/markdown-features/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
