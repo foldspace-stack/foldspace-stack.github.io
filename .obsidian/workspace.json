@@ -149,6 +149,7 @@
   },
   "active": "5cfce913abf1035a",
   "lastOpenFiles": [
+    "auto_push.sh",
     "docs/usage-experience/tools/intro.md",
     "docs/usage-experience/products/intro.md",
     "docs/usage-experience/products/计算机原理/intro.md",
@@ -193,7 +194,6 @@
     "docs/technology/计算机基础/网络/intro.md",
     "docs/frameworks/deploy-your-site.md",
     "docs/frameworks/create-a-page.md",
-    "docs/frameworks/create-a-document.md",
-    "docs/frameworks/create-a-blog-post.md"
+    "docs/frameworks/create-a-document.md"
   ]
 }
