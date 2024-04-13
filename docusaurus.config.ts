@@ -72,11 +72,21 @@ const config: Config = {
         },
         { to: "/docs/category/技术框架", label: "技术框架", position: "left" },
         {
+          to: "/docs/category/通用能力基于-odoo",
+          label: "通用能力",
+          position: "left",
+        },
+        {
           to: "/docs/category/产品和服务",
           label: "产品和服务",
           position: "left",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        {
+          to: "/docs/category/技术知识",
+          label: "技术文章",
+          position: "left",
+        },
+        { to: "/blog", label: "博客", position: "left" },
         {
           href: "https://foldspace.cn/",
           label: "Foldspace",
