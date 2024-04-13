@@ -72,7 +72,7 @@ const config: Config = {
         },
         { to: "/docs/category/技术框架", label: "技术框架", position: "left" },
         {
-          to: "/docs/category/通用能力基于",
+          to: "/docs/category/通用能力",
           label: "通用能力",
           position: "left",
         },
