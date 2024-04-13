@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "fccb001281e6a2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76053b467cfa0f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d70914ddf2df703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/technology/intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d2bc3b9814e818c",
+    "type": "split",
+    "children": [
+      {
+        "id": "69f13a6c69a0e693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cfce913abf1035a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d8333b88856f831",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d67d4ebf25d2e2cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ab7a55a7f718c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "32df11a76c441b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb27a6f7f2e526f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/technology/intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "975042b8a822b6fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/technology/intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ecd6fc35f4d66c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dd42bb5d752b1ca0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/technology/intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
+    }
+  },
+  "active": "5cfce913abf1035a",
+  "lastOpenFiles": [
+    "docs/technology/编程语言/Java/_category_.json",
+    "docs/technology/编程语言/Java",
+    "docs/technology/编程语言/编程语言 copy/_category_.json",
+    "docs/technology/编程语言/编程语言 copy",
+    "docs/technology/编程语言 copy/_category_.json",
+    "docs/technology/编程语言 copy",
+    "docs/technology/编程语言/_category_.json",
+    "docs/technology/编程语言",
+    "docs/technology/java/_category_.json",
+    "docs/technology/中间件/_category_.json",
+    "docs/technology/效能/_category_.json",
+    "docs/frameworks/deploy-your-site.md",
+    "docs/frameworks/create-a-page.md",
+    "docs/frameworks/create-a-document.md",
+    "docs/frameworks/create-a-blog-post.md",
+    "docs/frameworks/congratulations.md",
+    "docs/ubcp/img/docsVersionDropdown.png",
+    "docs/ubcp/img/localeDropdown.png",
+    "docs/ubcp/translate-your-site.md",
+    "docs/ubcp/manage-docs-versions.md",
+    "docs/tutorial-basics/deploy-your-site.md",
+    "docs/tutorial-basics/create-a-page.md",
+    "docs/tutorial-basics/create-a-document.md",
+    "docs/tutorial-basics/create-a-blog-post.md",
+    "docs/tutorial-basics/congratulations.md",
+    "docs/ubcp/deploy-your-site.md",
+    "docs/ubcp/create-a-page.md",
+    "docs/ubcp/create-a-document.md",
+    "docs/ubcp/create-a-blog-post.md",
+    "docs/ubcp/congratulations.md",
+    "docs/services/video-cms/intro.md",
+    "docs/products/video-cms/intro.md",
+    "docs/prodicts/video-cms/intro.md"
+  ]
+}
