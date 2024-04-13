@@ -149,6 +149,13 @@
   },
   "active": "5cfce913abf1035a",
   "lastOpenFiles": [
+    "docs/technology/中间件/intro.md",
+    "docs/technology/效能/intro.md",
+    "docs/technology/项目管理/intro.md",
+    "docs/technology/算法/intro.md",
+    "docs/technology/数据库/intro.md",
+    "docs/technology/架构/intro.md",
+    "docs/technology/计算机基础/网络/intro.md",
     "docs/technology/计算机基础/计算机原理/_category_.json",
     "docs/technology/计算机基础/计算机原理",
     "docs/technology/计算机基础/网络 copy/_category_.json",
@@ -159,7 +166,6 @@
     "docs/technology/计算机基础/计算机基础 copy",
     "docs/technology/计算机基础 copy/_category_.json",
     "docs/technology/计算机基础 copy",
-    "docs/technology/计算机基础/_category_.json",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -188,7 +194,6 @@
     "docs/ubcp/create-a-blog-post.md",
     "docs/ubcp/congratulations.md",
     "docs/services/video-cms/intro.md",
-    "docs/products/video-cms/intro.md",
-    "docs/prodicts/video-cms/intro.md"
+    "docs/products/video-cms/intro.md"
   ]
 }
