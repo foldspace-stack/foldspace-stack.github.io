@@ -149,7 +149,6 @@
   },
   "active": "5cfce913abf1035a",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/sitemap.xml",
     "build/index.html",
@@ -160,6 +159,7 @@
     "build/docs/usage-experience/products/intro",
     "build/docs/usage-experience/manage-docs-versions/index.html",
     "build/docs/usage-experience/translate-your-site",
+    "build/docs/usage-experience/tools",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
