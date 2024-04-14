@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/frameworks/intro.md",
+                "file": "blog/2019-05-28-first-blog-post.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/frameworks/intro.md",
+                "file": "blog/2019-05-28-first-blog-post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/frameworks/intro.md",
+                "file": "blog/2019-05-28-first-blog-post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/frameworks/intro.md"
+                "file": "blog/2019-05-28-first-blog-post.md"
               }
             }
           }
@@ -150,7 +150,10 @@
   },
   "active": "6d70914ddf2df703",
   "lastOpenFiles": [
-    "build/blog/atom.xml",
+    "templates/2019-05-29-long-blog-post.md",
+    "templates/intro.md",
+    "docs/frameworks/intro.md",
+    "templates",
     "build/blog/rss.xml",
     "build/sitemap.xml",
     "build/index.html",
@@ -160,7 +163,6 @@
     "build/docs/usage-experience/tools/intro",
     "build/docs/usage-experience/products/intro",
     "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/docs/usage-experience/translate-your-site",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -172,7 +174,6 @@
     "docs/intro.md",
     "docs/frameworks/congratulations.md",
     "docs/frameworks/deploy-your-site.md",
-    "docs/frameworks/intro.md",
     "docs/frameworks/create-a-document.md",
     "docs/technology/架构/intro.md",
     "build/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png",
@@ -194,7 +195,6 @@
     "docs/usage-experience/tools/网络/intro.md",
     "docs/usage-experience/计算机基础/计算机原理/intro.md",
     "docs/usage-experience/计算机基础/网络/intro.md",
-    "docs/usage-experience/translate-your-site.md",
-    "docs/usage-experience/manage-docs-versions.md"
+    "docs/usage-experience/translate-your-site.md"
   ]
 }
