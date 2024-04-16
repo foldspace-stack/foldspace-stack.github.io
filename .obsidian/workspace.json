@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/架构/system-design.md",
+                "file": "docs/technology/架构/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/架构/system-design.md",
+                "file": "docs/technology/架构/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/架构/system-design.md",
+                "file": "docs/technology/架构/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/架构/system-design.md"
+                "file": "docs/technology/架构/intro.md"
               }
             }
           }
@@ -150,17 +150,19 @@
   },
   "active": "9e9d5561d4056199",
   "lastOpenFiles": [
-    "build/assets/js/711bdd03.7827e07b.js",
-    "build/assets/js/runtime~main.045db60b.js",
-    "build/assets/js/720d44ef.e8c42c78.js",
-    "build/assets/js/6feabdda.e17de29a.js",
-    "build/assets/js/6c53cb48.ce081ab0.js",
-    "build/assets/js/6c210f50.78bad64c.js",
-    "build/assets/js/6b0df9ff.44513203.js",
-    "build/assets/js/6875c492.5394adc0.js",
-    "build/assets/js/66406991.fc828293.js",
-    "build/assets/js/608ae6a4.20544520.js",
-    "build/assets/js/5e95c892.88b1b571.js",
+    "docs/technology/架构/attachments/Pasted image 20240416225055.png",
+    "docs/technology/架构/attachments/Pasted image 20240416224523.png",
+    "docs/technology/架构/attachments",
+    "docs/technology/架构/system-design.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/sitemap.xml",
+    "build/docs/technology/intro/index.html",
+    "build/docs/technology/架构/intro/index.html",
+    "build/docs/technology/架构/intro",
+    "build/docs/technology/计算机基础/网络/intro/index.html",
+    "build/docs/technology/计算机基础/网络/intro",
+    "build/docs/technology/计算机基础/网络",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/logo.svg",
@@ -169,7 +171,6 @@
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
     "docs/technology/架构/intro.md",
-    "docs/technology/架构/system-design.md",
     "docs/technology/架构/未命名.md",
     "blog/2019-05-28-first-blog-post.md",
     "docs/paas/技术中台/intro.md",
@@ -194,7 +195,6 @@
     "docs/paas/create-a-document.md",
     "docs/paas/create-a-blog-post.md",
     "build/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png",
-    "build/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
-    "build/assets/images/docsVersionDropdown-35e13cbe46c9923327f30a76a90bff3b.png"
+    "build/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg"
   ]
 }
