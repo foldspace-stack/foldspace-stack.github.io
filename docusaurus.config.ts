@@ -98,8 +98,8 @@ const config: Config = {
           position: "right",
         },
         {
-          href: "https://open-ipaas.github.io/",
-          label: "OpenIpaas",
+          href: "https://little-ddd.github.io/",
+          label: "Little-DDD",
           position: "right",
         },
         {
