@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/架构/09-结语.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/架构/09-结语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/架构/09-结语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md"
+                "file": "docs/technology/架构/09-结语.md"
               }
             }
           }
@@ -150,26 +150,34 @@
   },
   "active": "9e9d5561d4056199",
   "lastOpenFiles": [
-    "build/docs/category/算法/index.html",
-    "build/docs/category/算法",
-    "build/docs/category/使用体验/index.html",
-    "build/docs/category/使用体验",
-    "build/docs/category/其他能力/index.html",
-    "build/docs/category/其他能力",
-    "build/docs/category/媒体工作台/index.html",
-    "build/docs/category/媒体工作台",
-    "build/docs/category/技术知识/index.html",
-    "build/docs/category/技术知识",
+    "build/docs/category/产品/index.html",
+    "build/docs/category/产品和服务/index.html",
+    "build/docs/category/产品和服务",
     "build/docs/category/工具/index.html",
-    "build/img/undraw_docusaurus_mountain.svg",
+    "build/docs/category/工具",
+    "build/docs/category/计算机基础/index.html",
+    "build/docs/category/计算机基础",
+    "build/docs/paas/congratulations/index.html",
+    "build/docs/paas/组件paas(combase)",
+    "build/docs/paas/数据中台",
+    "build/docs/paas/技术中台",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
     "build/img/logo.svg",
     "build/img/foldspace-icon.png",
-    "build/img/docusaurus-social-card.jpg",
     "build/img/docusaurus.png",
-    "docs/technology/架构/01-引言-一些基本知识.md",
+    "build/img/docusaurus-social-card.jpg",
+    "docs/technology/架构/08-架构趋势和未来展望.md",
+    "docs/technology/架构/09-结语.md",
+    "docs/technology/架构/07-实践案例分析.md",
+    "docs/technology/架构/06-架构师的角色和技能.md",
+    "docs/technology/架构/05-安全架构设计.md",
+    "docs/technology/架构/04-架构设计原则.md",
+    "docs/technology/架构/03-常见的软件架构模式.md",
+    "docs/technology/架构/02-软件架构基础.md",
     "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+    "docs/technology/架构/01-引言-一些基本知识.md",
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/system-design.md",
     "build/assets/images/Pasted image 20240416225055-63cff1b1ce7ab020ea7bd8b75067c89f.png",
@@ -187,14 +195,6 @@
     "docs/framework/intro.md",
     "docs/framework/deploy-your-site.md",
     "docs/framework/create-a-document.md",
-    "docs/framework/create-a-blog-post.md",
-    "docs/framework/congratulations.md",
-    "docs/paas copy/deploy-your-site.md",
-    "docs/paas copy/intro.md",
-    "docs/paas copy/create-a-document.md",
-    "docs/paas copy/create-a-blog-post.md",
-    "docs/paas copy/congratulations.md",
-    "docs/paas/intro.md",
-    "docs/paas/deploy-your-site.md"
+    "docs/framework/create-a-blog-post.md"
   ]
 }
