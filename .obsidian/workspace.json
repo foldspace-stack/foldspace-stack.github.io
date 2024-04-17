@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/架构/intro.md",
+                "file": "docs/technology/架构/关于架构的一个大纲.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/架构/intro.md",
+                "file": "docs/technology/架构/关于架构的一个大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/架构/intro.md",
+                "file": "docs/technology/架构/关于架构的一个大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/架构/intro.md"
+                "file": "docs/technology/架构/关于架构的一个大纲.md"
               }
             }
           }
@@ -150,6 +150,9 @@
   },
   "active": "9e9d5561d4056199",
   "lastOpenFiles": [
+    "docs/technology/架构/system-design.md",
+    "docs/technology/架构/关于架构的一个大纲.md",
+    "docs/technology/架构/intro.md",
     "build/blog/rss.xml",
     "build/blog/atom.xml",
     "build/sitemap.xml",
@@ -160,7 +163,6 @@
     "build/docs/usage-experience/tools/intro",
     "build/docs/usage-experience/products/intro",
     "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/docs/usage-experience/translate-your-site",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -171,8 +173,6 @@
     "build/assets/images/Pasted image 20240416225055-63cff1b1ce7ab020ea7bd8b75067c89f.png",
     "build/assets/images/Pasted image 20240416224523-624b59b83ad56bd3d502f5def5ddd5e7.png",
     "docs/technology/架构/attachments/Pasted image 20240416225055.png",
-    "docs/technology/架构/system-design.md",
-    "docs/technology/架构/intro.md",
     "docs/technology/架构/未命名.md",
     "blog/2019-05-28-first-blog-post.md",
     "docs/paas/技术中台/intro.md",
