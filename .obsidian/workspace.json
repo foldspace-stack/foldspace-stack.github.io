@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/计算机基础/网络/intro.md",
+                "file": "docs/technology/计算机基础/网络/02-网络基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/计算机基础/网络/intro.md",
+                "file": "docs/technology/计算机基础/网络/02-网络基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/计算机基础/网络/intro.md",
+                "file": "docs/technology/计算机基础/网络/02-网络基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/计算机基础/网络/intro.md"
+                "file": "docs/technology/计算机基础/网络/02-网络基础知识.md"
               }
             }
           }
@@ -150,17 +150,17 @@
   },
   "active": "9e9d5561d4056199",
   "lastOpenFiles": [
-    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/sitemap.xml",
-    "build/index.html",
-    "build/docs/usage-experience/tools/intro/index.html",
-    "build/docs/usage-experience/products/intro/index.html",
-    "build/docs/usage-experience/translate-your-site/index.html",
-    "build/docs/usage-experience/tools/intro",
-    "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/docs/usage-experience/products/intro",
+    "build/assets/js/d97458c7.8c40e508.js",
+    "build/assets/js/d0977bf5.66d01ef4.js",
+    "build/assets/js/d4a9148d.794395ed.js",
+    "build/assets/js/d3e7c5aa.1469ec53.js",
+    "build/assets/js/ce5143c0.63da961f.js",
+    "build/assets/js/c5204bb9.772c233c.js",
+    "build/assets/js/ccc49370.319e47b9.js",
+    "build/assets/js/ce1e12ee.61c2b91f.js",
+    "build/assets/js/c92efea4.1d531340.js",
+    "build/assets/js/c7c43674.72bace18.js",
+    "build/assets/js/c7bfaaf5.fd2cb25b.js",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -168,6 +168,10 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "docs/technology/计算机基础/网络/00-intro.md",
+    "docs/technology/计算机基础/网络/02-网络基础知识.md",
+    "docs/intro.md",
+    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
     "build/assets/images/Pasted image 20240414000325-530fe4f99e1d0591fa0c6396518885c6.png",
     "build/assets/images/Pasted image 20240416225055-63cff1b1ce7ab020ea7bd8b75067c89f.png",
     "build/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
@@ -191,9 +195,6 @@
     "docs/paas/数据中台/intro.md",
     "docs/paas/组件paas(combase) copy/intro.md",
     "docs/paas/组件paas(combase)/intro.md",
-    "docs/framework/intro.md",
-    "docs/framework/deploy-your-site.md",
-    "docs/framework/create-a-document.md",
-    "docs/framework/create-a-blog-post.md"
+    "docs/framework/intro.md"
   ]
 }
