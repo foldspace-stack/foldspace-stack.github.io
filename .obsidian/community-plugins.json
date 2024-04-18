@@ -1,5 +1,6 @@
 [
   "editing-toolbar",
   "markdown-table-editor",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "floating-toc"
 ]

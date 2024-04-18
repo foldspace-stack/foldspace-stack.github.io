@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/计算机基础/网络/intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/计算机基础/网络/intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+                "file": "docs/technology/计算机基础/网络/intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md"
+                "file": "docs/technology/计算机基础/网络/intro.md"
               }
             }
           }
@@ -150,17 +150,17 @@
   },
   "active": "9e9d5561d4056199",
   "lastOpenFiles": [
-    "build/assets/js/935f2afb.0b100b5f.js",
-    "build/assets/js/925b3f96.21af7632.js",
-    "build/assets/js/814f3328.8662c87f.js",
-    "build/assets/js/83d2cabf.ce6dc7be.js",
-    "build/assets/js/7fd3a870.1e9afdc3.js",
-    "build/assets/js/81463bc1.2dfff33e.js",
-    "build/assets/js/7c0aaaf7.ede0e233.js",
-    "build/assets/js/7724a184.ab6ef5f4.js",
-    "build/assets/js/7661071f.aeb2d627.js",
-    "build/assets/js/711bdd03.7827e07b.js",
-    "build/assets/js/73664a40.c50f1e12.js",
+    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/sitemap.xml",
+    "build/index.html",
+    "build/docs/usage-experience/tools/intro/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/usage-experience/tools/intro",
+    "build/docs/usage-experience/manage-docs-versions/index.html",
+    "build/docs/usage-experience/products/intro",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -179,7 +179,6 @@
     "docs/technology/架构/04-架构设计原则.md",
     "docs/technology/架构/03-常见的软件架构模式.md",
     "docs/technology/架构/02-软件架构基础.md",
-    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
     "docs/technology/架构/01-引言-一些基本知识.md",
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/system-design.md",
