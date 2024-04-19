@@ -61,6 +61,7 @@ const config: Config = {
       repoId: "R_kgDOLplJxw", // edit this
       category: "General",
       categoryId: "DIC_kwDOLplJx84CezQ_", //
+      lang: "zh-CN",
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
