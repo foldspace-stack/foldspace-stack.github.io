@@ -8,15 +8,15 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "http://docs.foldspace.cn",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "foldspace-stack", // Usually your GitHub org/user name.
+  projectName: "foldspace-stack.github.io", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -56,6 +56,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
+    giscus: {
+      repo: "foldspace-stack/foldspace-stack.github.io", // edit this
+      repoId: "R_kgDOLplJxw", // edit this
+      category: "General",
+      categoryId: "DIC_kwDOLplJx84CezQ_", //
+    },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "FoldSpace-Stack",
