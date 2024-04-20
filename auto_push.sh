@@ -1,3 +1,4 @@
+git pull
 npm run build
 ret=$?
 if [ $ret -eq 0 ]

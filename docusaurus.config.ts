@@ -126,6 +126,10 @@ const config: Config = {
               label: "Tutorial",
               to: "/docs/intro",
             },
+            {
+              label: "foldspace",
+              href: "http://docs.foldspace.cn",
+            },
           ],
         },
         {
