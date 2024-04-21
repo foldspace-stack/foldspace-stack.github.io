@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/group-anagrams?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240305122836.png]]
+![](attachments/Pasted image 20240305122836.png)
 
 
 # 解题

@@ -4,7 +4,7 @@
 https://leetcode.cn/problems/permutations/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
 
-![[Pasted image 20240305105549.png]]
+![](attachments/Pasted image 20240305105549.png)
 
 #  解题
 

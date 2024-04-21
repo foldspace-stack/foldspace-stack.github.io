@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/trapping-rain-water/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240302194235.png]]
+![](attachments/Pasted image 20240302194235.png)
 
 # 解题
 

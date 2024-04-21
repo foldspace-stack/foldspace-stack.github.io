@@ -4,7 +4,7 @@ https://leetcode.cn/problems/climbing-stairs?envType=featured-list&envId=2cktkvj
 
 
 
-![[Pasted image 20240306143758.png]]
+![](attachments/Pasted image 20240306143758.png)
 
 
 # 解题

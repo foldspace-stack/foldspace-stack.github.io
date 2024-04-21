@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/minimum-path-sum/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240305143252.png]]
+![](attachments/Pasted image 20240305143252.png)
 
 # 解题
 

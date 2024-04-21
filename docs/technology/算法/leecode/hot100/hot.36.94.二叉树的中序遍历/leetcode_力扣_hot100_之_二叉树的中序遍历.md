@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/binary-tree-inorder-traversal/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240308204913.png]]
+![](attachments/Pasted image 20240308204913.png)
 
 # 解题
 

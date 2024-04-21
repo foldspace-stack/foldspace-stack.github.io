@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/maximum-subarray/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240305123846.png]]
+![](attachments/Pasted image 20240305123846.png)
 
 # 解题
 

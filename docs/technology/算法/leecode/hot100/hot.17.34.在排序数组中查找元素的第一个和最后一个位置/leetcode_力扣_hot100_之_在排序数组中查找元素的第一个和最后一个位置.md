@@ -1,6 +1,6 @@
 # 题目
 https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
-![[Pasted image 20240301221934.png]]
+![](attachments/Pasted image 20240301221934.png)
 
 # 解题
 

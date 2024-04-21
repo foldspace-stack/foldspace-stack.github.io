@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/combination-sum/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240302110311.png]]
+![](attachments/Pasted image 20240302110311.png)
 
 
 # 解题

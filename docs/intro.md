@@ -6,7 +6,7 @@ sidebar_position: 1
 
 foldspace 取名自折叠空间
 
-![](attachments/Pasted%20image%2020240414000325.png)
+![](attachments/Pasted image 20240414000325.png)
 
 我希望我的公司有未来感和科技感，所以取名折叠空间，这个名字可能会让人联想到未来世界或者超越现实的概念，希望能利用科技解决问题，但是现在业务不限。
 

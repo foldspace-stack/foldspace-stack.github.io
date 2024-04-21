@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/sort-colors?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240306152459.png]]
+![](attachments/Pasted image 20240306152459.png)
 
 # 解题
 

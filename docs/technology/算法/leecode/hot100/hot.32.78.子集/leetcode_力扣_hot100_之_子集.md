@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/subsets/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240306215038.png]]
+![](attachments/Pasted image 20240306215038.png)
 
 
 # 解题

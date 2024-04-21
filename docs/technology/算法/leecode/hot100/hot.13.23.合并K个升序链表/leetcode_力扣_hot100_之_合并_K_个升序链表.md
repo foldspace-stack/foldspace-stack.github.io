@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/merge-k-sorted-lists/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![[Pasted image 20240301133842.png]]
+![](attachments/Pasted image 20240301133842.png)
 
 # 解题
 

@@ -6,10 +6,10 @@ http://192.168.31.136:8848/nacos/#/clusterManagement?dataId=&group=&appName=&nam
 
 本地的数据缓存
 
-![[Pasted image 20240126122611.png]]
+![](attachments/Pasted image 20240126122611.png)
 
 线上的订阅列表
 
 
-![[Pasted image 20240126122442.png]]
+![](attachments/Pasted image 20240126122442.png)
 

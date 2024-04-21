@@ -3,7 +3,7 @@
 
 Wagtail 的富文本编辑器是使用[Draftail](https://www.draftail.org/)构建的，它支持不同类型的扩展。
 
-![](attachments/Pasted%20image%2020240420225727.png)
+![](attachments/Pasted image 20240420225727.png)
 具体参考官方网文档
 
 https://docs.wagtail.org/en/stable/extending/extending_draftail.html#id1
@@ -11,7 +11,7 @@ https://docs.wagtail.org/en/stable/extending/extending_client_side.html#extendin
 # 扩展编辑器工具栏
 
 正常编辑器 有个工具栏  在上方
-![](attachments/Pasted%20image%2020240420194843.png)
+![](attachments/Pasted image 20240420194843.png)
 
 ```python
 

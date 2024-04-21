@@ -1,6 +1,6 @@
 # 题目
 
-![[Pasted image 20240229185944.png]]
+![](attachments/Pasted image 20240229185944.png)
 
 # 解题
 
