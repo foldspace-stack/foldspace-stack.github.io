@@ -41,11 +41,15 @@ const config: Config = {
             "https://github.com/foldspace-stack/foldspace-stack.github.io/tree/main/",
         },
         sitemap: {
-          lastmod: 'date',
-          changefreq: 'weekly',
+          lastmod: "date",
+          changefreq: "weekly",
           priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
+        },
+        gtag: {
+          trackingID: "G-999X9XX9XX",
+          anonymizeIP: true,
         },
         blog: {
           showReadingTime: true,
@@ -71,6 +75,13 @@ const config: Config = {
       lang: "zh-CN",
       theme: "noborder_dark",
     },
+    metadata: [
+      // Declare a <link> preconnect tag
+      {
+        name: "google-site-verification",
+        content: "9kZMOhGH7ZLZ7uSCGZSM7N_IXDlXNKRC-v_G8mbOuGs",
+      },
+    ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "FoldSpace-Stack",
