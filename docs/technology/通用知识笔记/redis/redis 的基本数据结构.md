@@ -1,4 +1,4 @@
-![](attachments/Pasted image 20240227135103.png)
+![](attachments/Pasted%20image%2020240227135103.png)
 Redis 是一个基于键值对的高性能内存数据库，它支持多种类型的数据结构。以下是Redis支持的主要数据结构：
 
 1. **字符串（String）**:

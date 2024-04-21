@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/rotate-image/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240305115533.png)
+![](attachments/Pasted%20image%2020240305115533.png)
 
 # 解题
 

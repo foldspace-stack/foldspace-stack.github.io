@@ -3,7 +3,7 @@
 
 https://leetcode.cn/problems/next-permutation?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240301144907.png)
+![](attachments/Pasted%20image%2020240301144907.png)
 
 # 解题
 

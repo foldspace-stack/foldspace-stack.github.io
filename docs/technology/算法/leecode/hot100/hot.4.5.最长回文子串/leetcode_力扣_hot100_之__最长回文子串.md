@@ -107,7 +107,7 @@ if __name__ == '__main__':
 > 有优化空间 可以先判断 是不是 dd 类型
 
 
-![](attachments/Pasted image 20240228211443.png)
+![](attachments/Pasted%20image%2020240228211443.png)
 
 
 ```python
@@ -147,7 +147,7 @@ if __name__ == '__main__':
 ```
 
 
-![](attachments/Pasted image 20240228220321.png)
+![](attachments/Pasted%20image%2020240228220321.png)
 
 
 

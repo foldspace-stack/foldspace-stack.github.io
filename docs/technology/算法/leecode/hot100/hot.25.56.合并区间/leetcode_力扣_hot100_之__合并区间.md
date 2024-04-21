@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/merge-intervals?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240305132343.png)
+![](attachments/Pasted%20image%2020240305132343.png)
 
 # 解题
 

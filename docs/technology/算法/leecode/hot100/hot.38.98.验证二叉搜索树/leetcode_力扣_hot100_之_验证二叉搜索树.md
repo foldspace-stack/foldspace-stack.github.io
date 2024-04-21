@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/validate-binary-search-tree?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240308211929.png)
+![](attachments/Pasted%20image%2020240308211929.png)
 
 # 解题
 

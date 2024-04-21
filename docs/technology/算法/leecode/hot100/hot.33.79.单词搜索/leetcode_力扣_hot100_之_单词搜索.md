@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/word-search/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240306222446.png)
+![](attachments/Pasted%20image%2020240306222446.png)
 
 # 解题
 

@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/maximal-rectangle?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240308202314.png)
+![](attachments/Pasted%20image%2020240308202314.png)
 
 
 # 解题

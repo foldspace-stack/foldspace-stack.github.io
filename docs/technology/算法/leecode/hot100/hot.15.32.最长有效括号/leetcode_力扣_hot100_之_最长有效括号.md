@@ -3,7 +3,7 @@
 
 https://leetcode.cn/problems/longest-valid-parentheses/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240301170916.png)
+![](attachments/Pasted%20image%2020240301170916.png)
 
 # 解题
 

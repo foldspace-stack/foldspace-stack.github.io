@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/search-in-rotated-sorted-array/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240301211350.png)
+![](attachments/Pasted%20image%2020240301211350.png)
 
 # 解题
 

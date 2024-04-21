@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/jump-game/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240305125345.png)
+![](attachments/Pasted%20image%2020240305125345.png)
 
 # 解题
 

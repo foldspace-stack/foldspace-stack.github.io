@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240307103648.png)
+![](attachments/Pasted%20image%2020240307103648.png)
 
 # 解题
 

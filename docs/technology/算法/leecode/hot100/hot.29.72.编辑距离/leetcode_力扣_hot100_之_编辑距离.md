@@ -2,7 +2,7 @@
 
 https://leetcode.cn/problems/edit-distance/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
-![](attachments/Pasted image 20240306145322.png)
+![](attachments/Pasted%20image%2020240306145322.png)
 
 # 解题
 

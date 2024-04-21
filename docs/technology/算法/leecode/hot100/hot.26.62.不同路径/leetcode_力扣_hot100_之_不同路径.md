@@ -3,7 +3,7 @@
 https://leetcode.cn/problems/unique-paths/description/?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj
 
 
-![](attachments/Pasted image 20240305140450.png)
+![](attachments/Pasted%20image%2020240305140450.png)
 
 # 解题
 
