@@ -62,6 +62,7 @@ const config: Config = {
       category: "General",
       categoryId: "DIC_kwDOLplJx84CezQ_", //
       lang: "zh-CN",
+      theme: "noborder_dark",
     },
     image: "img/docusaurus-social-card.jpg",
     navbar: {
