@@ -40,6 +40,13 @@ const config: Config = {
           editUrl:
             "https://github.com/foldspace-stack/foldspace-stack.github.io/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        sitemap: {
+          lastmod: 'date',
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
