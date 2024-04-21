@@ -40,7 +40,8 @@ const config: Config = {
           editUrl:
             "https://github.com/foldspace-stack/foldspace-stack.github.io/tree/main/",
         },
-        googleAnalytics: {
+        //googleAnalytics: {
+        gtag: {
           trackingID: 'G-DMW09C95L0',
           anonymizeIP: true,
         },
@@ -50,10 +51,6 @@ const config: Config = {
           priority: 0.5,
           ignorePatterns: ["/tags/**"],
           filename: "sitemap.xml",
-        },
-        gtag: {
-          trackingID: "G-999X9XX9XX",
-          anonymizeIP: true,
         },
         blog: {
           showReadingTime: true,
