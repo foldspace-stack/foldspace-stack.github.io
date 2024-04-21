@@ -1,0 +1,15 @@
+# nacos 
+
+
+
+http://192.168.31.136:8848/nacos/#/clusterManagement?dataId=&group=&appName=&namespace=&namespaceShowName=public
+
+本地的数据缓存
+
+![[Pasted image 20240126122611.png]]
+
+线上的订阅列表
+
+
+![[Pasted image 20240126122442.png]]
+
