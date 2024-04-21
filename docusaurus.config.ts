@@ -64,7 +64,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
+  headTags: [],
   themeConfig: {
     // Replace with your project's social card
     giscus: {
