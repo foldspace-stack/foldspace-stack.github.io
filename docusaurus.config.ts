@@ -40,6 +40,10 @@ const config: Config = {
           editUrl:
             "https://github.com/foldspace-stack/foldspace-stack.github.io/tree/main/",
         },
+        googleAnalytics: {
+          trackingID: 'G-DMW09C95L0',
+          anonymizeIP: true,
+        },
         sitemap: {
           lastmod: "date",
           changefreq: "weekly",
