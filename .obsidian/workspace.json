@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/架构/05-安全架构设计.md",
+                "file": "docs/technology/架构/02-软件架构基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/架构/05-安全架构设计.md",
+                "file": "docs/technology/架构/02-软件架构基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/架构/05-安全架构设计.md",
+                "file": "docs/technology/架构/02-软件架构基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/架构/05-安全架构设计.md"
+                "file": "docs/technology/架构/02-软件架构基础.md"
               }
             }
           }
@@ -164,20 +164,17 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "docs/technology/架构/04-架构设计原则.md",
-    "docs/technology/架构/03-常见的软件架构模式.md",
-    "docs/technology/架构/02-软件架构基础.md",
+    "docs/technology/架构/05-安全架构设计.md",
     "build/sitemap.xml",
-    "build/blog/rss.xml",
     "build/blog/atom.xml",
+    "build/blog/rss.xml",
     "build/index.html",
-    "build/docs/ubcp/odoo/intro/index.html",
-    "build/docs/technology/中间件/intro/index.html",
-    "build/docs/technology/效能/intro/index.html",
-    "build/docs/ubcp/manage-docs-versions/index.html",
-    "build/docs/technology/项目管理/intro/index.html",
-    "build/docs/ubcp/其他能力/intro/index.html",
-    "build/assets/images/Pasted image 20240422222534-87ec716eefeeb8ee9226dfb1eb817374.png",
+    "build/docs/usage-experience/tools/intro/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/tools/intro",
+    "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/usage-experience/products/intro",
+    "build/docs/usage-experience/manage-docs-versions/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -185,6 +182,10 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "docs/technology/架构/04-架构设计原则.md",
+    "docs/technology/架构/03-常见的软件架构模式.md",
+    "docs/technology/架构/02-软件架构基础.md",
+    "build/assets/images/Pasted image 20240422222534-87ec716eefeeb8ee9226dfb1eb817374.png",
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/01-引言-一些基本知识.md",
     "docs/technology/架构/attachments/Pasted image 20240422222534.png",
@@ -208,7 +209,6 @@
     "node_modules/serve-index/node_modules/mime-types/README.md",
     "node_modules/serve-handler/node_modules/mime-types/README.md",
     "node_modules/serve-handler/node_modules/mime-types/HISTORY.md",
-    "node_modules/serve-handler/node_modules/range-parser/README.md",
-    "node_modules/serve-handler/node_modules/range-parser/HISTORY.md"
+    "node_modules/serve-handler/node_modules/range-parser/README.md"
   ]
 }
