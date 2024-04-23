@@ -66,3 +66,5 @@ sudo pip install nodeenv
 (vnode) ➜  Downloads which npm
 /Users/admin/Downloads/vnode/bin/npm
 ```
+
+自动识别可以配合 [autoenv](https://github.com/hyperupcall/autoenv?tab=readme-ov-file)
