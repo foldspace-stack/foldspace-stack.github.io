@@ -1,5 +1,6 @@
 
-# 简介
+# 01-Wagtail 如何编写编辑器插件？
+## 简介
 
 Wagtail 的富文本编辑器是使用[Draftail](https://www.draftail.org/)构建的，它支持不同类型的扩展。
 
@@ -8,7 +9,7 @@ Wagtail 的富文本编辑器是使用[Draftail](https://www.draftail.org/)构�
 
 https://docs.wagtail.org/en/stable/extending/extending_draftail.html#id1
 https://docs.wagtail.org/en/stable/extending/extending_client_side.html#extending-client-side-react
-# 扩展编辑器工具栏
+## 扩展编辑器工具栏
 
 正常编辑器 有个工具栏  在上方
 ![](attachments/Pasted%20image%2020240420194843.png)
