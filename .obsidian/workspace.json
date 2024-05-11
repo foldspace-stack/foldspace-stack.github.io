@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/services/video-cms/04-wagtail 如何扩展块对象.md"
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md"
               }
             }
           }
@@ -157,24 +157,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "build/docs/ubcp/其他能力/intro/index.html",
-    "build/docs/ubcp/其他能力/intro",
-    "build/docs/ubcp/其他能力",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/sitemap.xml",
     "build/index.html",
-    "build/docs/ubcp/translate-your-site/index.html",
-    "build/docs/ubcp/translate-your-site",
-    "build/docs/technology/通用知识笔记/java/锁/乐观锁/index.html",
-    "build/docs/technology/通用知识笔记/java/锁/乐观锁",
-    "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/docs/usage-experience/manage-docs-versions",
     "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/ubcp/manage-docs-versions/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/products/intro",
+    "build/docs/usage-experience/products",
+    "build/docs/technology/通用知识笔记/redis/redis 的基本数据结构/index.html",
+    "build/docs/technology/通用知识笔记/redis/私有化部署方案/index.html",
+    "build/assets/images/Pasted image 20240511143729-faebcad642faa3fda4d5104a441dd843.png",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -182,11 +183,13 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "docs/technology/硬件/戴尔/attachments/Pasted image 20240511143729.png",
+    "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
+    "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
     "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md",
     "docs/services/video-cms/02-Wagtail 如何创建内容模板.md",
     "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
     "docs/services/video-cms/00-简介.md",
-    "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
     "docs/technology/架构/02-软件架构基础.md",
     "docs/technology/编程语言/js/工程/node多环境.md",
     "docs/technology/架构/05-安全架构设计.md",
@@ -195,20 +198,17 @@
     "build/assets/images/Pasted image 20240422222534-87ec716eefeeb8ee9226dfb1eb817374.png",
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/01-引言-一些基本知识.md",
-    "docs/technology/架构/attachments/Pasted image 20240422222534.png",
     "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
     "docs/technology/编程语言/js/antv/antv拓扑扩展.md",
     "docs/technology/编程语言/js/intro.md",
     "docs/technology/编程语言/go/gorm/gorm手写 sql.md",
     "docs/technology/编程语言/python/django/django 配置使用 minio 做文件存储.md",
-    "build/assets/images/Pasted image 20240308204913-e1b1e175fb70de07bb1e2bec7262bbf3.png",
     "node_modules/@docusaurus/plugin-google-analytics/node_modules/@docusaurus/mdx-loader/src/remark/admonitions/README.md",
     "node_modules/spdy/node_modules/debug/README.md",
     "node_modules/spdy-transport/node_modules/ms/readme.md",
     "node_modules/spdy-transport/node_modules/ms/license.md",
     "node_modules/spdy/node_modules/ms/readme.md",
     "node_modules/spdy/node_modules/ms/license.md",
-    "node_modules/spdy-transport/node_modules/debug/README.md",
-    "node_modules/serve-index/node_modules/mime-types/HISTORY.md"
+    "node_modules/spdy-transport/node_modules/debug/README.md"
   ]
 }
