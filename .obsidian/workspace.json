@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
+                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
+                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
+                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md"
+                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md"
               }
             }
           }
@@ -152,29 +152,30 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/docs/usage-experience/manage-docs-versions",
-    "build/docs/ubcp/odoo/intro/index.html",
-    "build/docs/ubcp/odoo/intro",
-    "build/docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介/index.html",
-    "build/docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍/index.html",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍",
-    "build/docs/technology/硬件/戴尔/戴尔 R220ii 安装系统/index.html",
-    "build/docs/technology/硬件/戴尔/戴尔 R220ii 安装系统",
-    "build/docs/technology/云厂商/GCP/DAAS/GCP 下 MYSQL 创建和体验/index.html",
+    "build/index.html",
+    "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/technology/中间件/intro/index.html",
+    "build/docs/technology/云厂商/GCP/DAAS/GCP 迁移一个 本地数据库到 cloud sql/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/products/intro",
+    "build/docs/usage-experience/products",
+    "build/docs/technology/云原生/大纲/index.html",
+    "build/docs/ubcp/translate-your-site/index.html",
+    "build/docs/ubcp/translate-your-site",
+    "build/docs/ubcp/其他能力/intro/index.html",
+    "build/img/undraw_docusaurus_tree.svg",
+    "build/img/undraw_docusaurus_react.svg",
+    "build/img/undraw_docusaurus_mountain.svg",
+    "build/img/logo.svg",
+    "build/img/foldspace-icon.png",
+    "build/img/docusaurus.png",
+    "build/img/docusaurus-social-card.jpg",
+    "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
+    "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
     "build/assets/images/Pasted image 20240512210029-9daae1ddb25a6a9fe6a4e3377fb00d30.png",
     "build/assets/images/Pasted image 20240512213533-c03f54df1017e459b05f934de5559a0a.png",
     "build/assets/images/Pasted image 20240512205222-b1a824cc92fef5eebdd23e085c17abab.png",
-    "build/assets/images/Pasted image 20240512205135-7a8b2ed3a8bee691733cfd6a0155bf32.png",
-    "build/assets/images/Pasted image 20240512210012-bc4dda70d842b4c05d61263467c7bac7.png",
-    "build/assets/images/Pasted image 20240512204534-86f5474ee6c8f6ebab2877db9ef7764d.png",
-    "build/assets/images/Pasted image 20240512204625-eb334b88d906270519d9fde8959758f8.png",
-    "build/assets/images/Pasted image 20240512210222-2058f35b5af96e9a4ac3466933e645b9.png",
-    "build/img/undraw_docusaurus_tree.svg",
-    "build/img/undraw_docusaurus_react.svg",
     "docs/technology/云厂商/GCP/DAAS/GCP 迁移一个 本地数据库到 cloud sql.md",
-    "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
     "docs/technology/云厂商/GCP/DAAS/GCP 下 MYSQL 创建和体验.md",
     "docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍.md",
     "docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC.md",
@@ -196,7 +197,6 @@
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/01-引言-一些基本知识.md",
     "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
-    "docs/technology/编程语言/js/antv/antv拓扑扩展.md",
-    "docs/technology/编程语言/js/intro.md"
+    "docs/technology/编程语言/js/antv/antv拓扑扩展.md"
   ]
 }
