@@ -15,6 +15,10 @@ KMS（Key Management Service，密钥管理服务）和 HashiCorp Vault 都是�
 
 虽然 KMS 和 HashiCorp Vault 都是用于密钥和敏感数据管理的工具，但它们的定位和功能有所不同。KMS 更适用于云环境中对密钥进行简单管理和加密操作，而 Vault 则提供了更为全面和灵活的安全解决方案，适用于各种环境和复杂的安全需求。在选择使用时，可以根据具体的需求和场景来决定使用哪种工具或者结合两者来增强安全性。
 
+Hashcorp Vault 本身提供非常丰富的功能
+
+![](attachments/Pasted%20image%2020240601223208.png)
+
 ## 存储引擎
 
 https://developer.hashicorp.com/vault/docs/configuration/storage
