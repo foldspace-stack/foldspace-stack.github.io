@@ -38,3 +38,15 @@ github-ci: added process group
 ```
 
 如果要配置 共用的 token 相关就直接配置在 `environment` 变量中
+
+如果需要项目级别的 共享的 github ci action runner
+
+https://github.com/organizations/dafengstudio/settings/actions/runners
+
+替换上面的项目名
+
+然后
+
+![](attachments/Pasted%20image%2020240602205748.png)
+
+就 ok
