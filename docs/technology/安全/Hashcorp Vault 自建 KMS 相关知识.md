@@ -158,4 +158,9 @@ LDAP Secrets Engine 允许 Vault 与现有的 LDAP 目录服务进行集成，�
 
 ![](attachments/Pasted%20image%2020240601211327.png)
 
+### KMS 和 nacos 配置中心配合使用
 
+```puml
+
+
+```
