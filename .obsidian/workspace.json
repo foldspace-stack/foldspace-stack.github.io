@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/test.md",
+                "file": "blog/安装 sentry.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:docusaurus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/test.md",
+                "file": "blog/安装 sentry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/test.md",
+                "file": "blog/安装 sentry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/test.md"
+                "file": "blog/安装 sentry.md"
               }
             }
           }
@@ -165,10 +165,9 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "templates/2024-05-29-test-post.md",
-    "build/blog/atom.xml",
+    "blog/docker 被封之后.md",
+    "blog/安装 sentry.md",
     "build/sitemap.xml",
-    "build/blog/rss.xml",
     "build/index.html",
     "build/docs/usage-experience/tools/intro/index.html",
     "build/docs/usage-experience/products/intro/index.html",
@@ -176,6 +175,8 @@
     "build/docs/usage-experience/tools/intro",
     "build/docs/usage-experience/products/intro",
     "build/docs/usage-experience/manage-docs-versions/index.html",
+    "build/docs/usage-experience/translate-your-site",
+    "build/docs/usage-experience/tools",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -183,14 +184,13 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
-    "blog/test.md",
+    "build/assets/images/localeDropdown-f0d995e751e7656a1b0dbbc1134e49c2.png",
+    "build/assets/images/docusaurus-plushie-banner-a60f7593abca1e3eef26a9afa244e4fb.jpeg",
+    "build/assets/images/docsVersionDropdown-35e13cbe46c9923327f30a76a90bff3b.png",
+    "templates/2024-05-29-test-post.md",
     "blog/2019-05-28-first-blog-post.md",
     "blog/2021-08-26-welcome/index.md",
-    "blog/2021-08-26-welcome/docusaurus-plushie-banner.jpeg",
-    "blog/docker 被封之后.md",
     "docs/technology/效能/github-ci-runner 自己部署.md",
-    "docs/technology/效能/attachments/Pasted image 20240602205748.png",
-    "build/assets/images/Pasted image 20240601235213-3cf736886f9c6e6a02dde1416545a9df.png",
     "docs/technology/效能/grafana 压测工具 K6 简介.md",
     "docs/technology/安全/Hashcorp Vault 自建 KMS 相关知识.md",
     "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
@@ -209,7 +209,6 @@
     "docs/technology/架构/06-架构师的角色和技能.md",
     "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
     "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md",
-    "docs/services/video-cms/00-简介.md",
-    "docs/technology/架构/02-软件架构基础.md"
+    "docs/services/video-cms/00-简介.md"
   ]
 }
