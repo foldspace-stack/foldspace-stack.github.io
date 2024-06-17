@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9e9d5561d4056199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/services/video-cms/00-简介.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "21cff30dc29b642c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
+                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
+                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
+                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md"
+                "file": "docs/technology/效能/github-ci-runner 自己部署.md"
               }
             }
           }
@@ -138,35 +151,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍.md",
-    "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
-    "docs/technology/云厂商/GCP/Tools/GCP SDK 安装.md",
-    "docs/technology/云厂商/GCP/Paas/GKE/GKE 的命令行.md",
-    "docs/technology/云厂商/GCP/Paas/GKE",
-    "docs/technology/云厂商/GCP/Paas",
-    "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
-    "docs/technology/云厂商/GCP/Tools",
+    "docs/technology/效能/attachments/Pasted image 20240602205748.png",
+    "build/sitemap.xml",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/sitemap.xml",
     "build/index.html",
-    "build/docs/technology/中间件/intro/index.html",
-    "build/docs/technology/云原生/大纲/index.html",
-    "build/docs/technology/云厂商/GCP/IAAS/存储/GCP存储-磁盘对比/index.html",
+    "build/docs/usage-experience/tools/intro/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/usage-experience/tools/intro",
+    "build/docs/usage-experience/products/intro",
+    "build/docs/usage-experience/manage-docs-versions/index.html",
+    "build/assets/images/Pasted image 20240601235213-3cf736886f9c6e6a02dde1416545a9df.png",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -174,29 +184,32 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
-    "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
-    "build/assets/images/Pasted image 20240512210029-9daae1ddb25a6a9fe6a4e3377fb00d30.png",
-    "build/assets/images/Pasted image 20240512213533-c03f54df1017e459b05f934de5559a0a.png",
-    "build/assets/images/Pasted image 20240512205222-b1a824cc92fef5eebdd23e085c17abab.png",
-    "docs/technology/云厂商/GCP/DAAS/GCP 迁移一个 本地数据库到 cloud sql.md",
-    "docs/technology/云厂商/GCP/DAAS/GCP 下 MYSQL 创建和体验.md",
-    "docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC.md",
-    "docs/technology/云厂商/GCP/IAAS/存储/GCP存储-磁盘对比.md",
-    "docs/technology/硬件/戴尔/戴尔 R220ii 安装系统.md",
-    "docs/technology/云厂商/GCP/GCP.md",
-    "docs/technology/服务体验/sap/MAC 下 docker 安装 sap 试用版本.md",
-    "docs/services/video-cms/00-简介.md",
+    "docs/technology/效能/grafana 压测工具 K6 简介.md",
+    "docs/technology/效能/github-ci-runner 自己部署.md",
+    "docs/technology/效能/attachments/Pasted image 20240601235213.png",
+    "docs/technology/安全/Hashcorp Vault 自建 KMS 相关知识.md",
+    "build/assets/images/Pasted image 20240601223208-773bd77593c0f035cb2d015a49993cb0.png",
+    "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
+    "docs/technology/计算机基础/网络/03-什么时CIDR.md",
+    "docs/technology/计算机基础/网络/02-网络基础知识.md",
+    "docs/technology/计算机基础/网络/00-intro.md",
+    "docs/technology/通用知识笔记/数据库/面试基础-数据库优化-索引.md",
+    "docs/technology/通用知识笔记/数据库/ACID 和 事务 和 日志相关.md",
+    "docs/technology/架构/04-架构设计原则.md",
+    "docs/technology/架构/01-引言-一些基本知识.md",
+    "docs/technology/云厂商/GCP.md",
+    "docs/technology/云厂商/AWS.md",
+    "docs/services/video-cms/02-Wagtail 如何创建内容模板.md",
+    "docs/technology/云原生/大纲.md",
+    "docs/technology/架构/05-安全架构设计.md",
+    "docs/technology/架构/06-架构师的角色和技能.md",
     "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
     "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md",
-    "docs/services/video-cms/02-Wagtail 如何创建内容模板.md",
-    "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
+    "docs/services/video-cms/00-简介.md",
     "docs/technology/架构/02-软件架构基础.md",
     "docs/technology/编程语言/js/工程/node多环境.md",
-    "docs/technology/架构/05-安全架构设计.md",
-    "docs/technology/架构/04-架构设计原则.md",
     "docs/technology/架构/03-常见的软件架构模式.md",
     "docs/technology/架构/00-大纲.md",
-    "docs/technology/架构/01-引言-一些基本知识.md",
     "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md"
   ]
 }
