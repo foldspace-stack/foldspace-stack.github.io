@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md"
+                "file": "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md"
               }
             }
           }
@@ -152,17 +152,21 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
+    "docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍.md",
+    "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
+    "docs/technology/云厂商/GCP/Tools/GCP SDK 安装.md",
+    "docs/technology/云厂商/GCP/Paas/GKE/GKE 的命令行.md",
+    "docs/technology/云厂商/GCP/Paas/GKE",
+    "docs/technology/云厂商/GCP/Paas",
+    "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
+    "docs/technology/云厂商/GCP/Tools",
+    "build/blog/atom.xml",
+    "build/blog/rss.xml",
+    "build/sitemap.xml",
     "build/index.html",
     "build/docs/technology/中间件/intro/index.html",
     "build/docs/technology/云原生/大纲/index.html",
     "build/docs/technology/云厂商/GCP/IAAS/存储/GCP存储-磁盘对比/index.html",
-    "build/docs/usage-experience/tools/intro/index.html",
-    "build/docs/usage-experience/tools/intro",
-    "build/docs/usage-experience/tools",
-    "build/docs/usage-experience/products/intro/index.html",
-    "build/docs/usage-experience/products/intro",
-    "build/docs/usage-experience/products",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -171,17 +175,14 @@
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
     "docs/technology/云厂商/GCP/DAAS/GCP-AlloyDB简介.md",
-    "docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介.md",
     "build/assets/images/Pasted image 20240512210029-9daae1ddb25a6a9fe6a4e3377fb00d30.png",
     "build/assets/images/Pasted image 20240512213533-c03f54df1017e459b05f934de5559a0a.png",
     "build/assets/images/Pasted image 20240512205222-b1a824cc92fef5eebdd23e085c17abab.png",
     "docs/technology/云厂商/GCP/DAAS/GCP 迁移一个 本地数据库到 cloud sql.md",
     "docs/technology/云厂商/GCP/DAAS/GCP 下 MYSQL 创建和体验.md",
-    "docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍.md",
     "docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC.md",
     "docs/technology/云厂商/GCP/IAAS/存储/GCP存储-磁盘对比.md",
     "docs/technology/硬件/戴尔/戴尔 R220ii 安装系统.md",
-    "docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表.md",
     "docs/technology/云厂商/GCP/GCP.md",
     "docs/technology/服务体验/sap/MAC 下 docker 安装 sap 试用版本.md",
     "docs/services/video-cms/00-简介.md",
@@ -196,7 +197,6 @@
     "docs/technology/架构/03-常见的软件架构模式.md",
     "docs/technology/架构/00-大纲.md",
     "docs/technology/架构/01-引言-一些基本知识.md",
-    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md",
-    "docs/technology/编程语言/js/antv/antv拓扑扩展.md"
+    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md"
   ]
 }
