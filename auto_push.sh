@@ -1,5 +1,5 @@
 git pull
-npm run clear
+#npm run clear
 npm run build
 ret=$?
 if [ $ret -eq 0 ]
