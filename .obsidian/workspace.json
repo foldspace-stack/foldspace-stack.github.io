@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
+                "file": "blog/让 mac 的提醒事项 在工具栏 menubar 展示.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
+                "file": "blog/让 mac 的提醒事项 在工具栏 menubar 展示.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/technology/效能/github-ci-runner 自己部署.md",
+                "file": "blog/让 mac 的提醒事项 在工具栏 menubar 展示.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/technology/效能/github-ci-runner 自己部署.md"
+                "file": "blog/让 mac 的提醒事项 在工具栏 menubar 展示.md"
               }
             }
           }
@@ -165,18 +165,18 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "docs/technology/效能/attachments/Pasted image 20240602205748.png",
     "build/sitemap.xml",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
     "build/index.html",
-    "build/docs/usage-experience/tools/intro/index.html",
-    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC/index.html",
+    "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍/index.html",
+    "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍",
     "build/docs/usage-experience/translate-your-site/index.html",
-    "build/docs/usage-experience/tools/intro",
-    "build/docs/usage-experience/products/intro",
-    "build/docs/usage-experience/manage-docs-versions/index.html",
-    "build/assets/images/Pasted image 20240601235213-3cf736886f9c6e6a02dde1416545a9df.png",
+    "build/docs/technology/中间件/intro/index.html",
+    "build/docs/technology/云原生/大纲/index.html",
+    "build/docs/ubcp/odoo/intro/index.html",
+    "build/assets/images/Pasted image 20240614180054-5e5f59c9607e57ead663438db150dc3f.png",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -184,11 +184,14 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "build/assets/images/Pasted image 20240619124553-7600b79e63542aa684373f5f10bee48b.png",
+    "blog/attachments/Pasted image 20240619124553.png",
+    "blog/2019-05-28-first-blog-post.md",
+    "docs/technology/可观测/opentelemetry/java spring-boot  集成  opentelemetry 链路监控.md",
+    "docs/technology/可观测/prometheus/nodejs pm2 配置 prometheus exporter.md",
     "docs/technology/效能/grafana 压测工具 K6 简介.md",
     "docs/technology/效能/github-ci-runner 自己部署.md",
-    "docs/technology/效能/attachments/Pasted image 20240601235213.png",
     "docs/technology/安全/Hashcorp Vault 自建 KMS 相关知识.md",
-    "build/assets/images/Pasted image 20240601223208-773bd77593c0f035cb2d015a49993cb0.png",
     "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
     "docs/technology/计算机基础/网络/03-什么时CIDR.md",
     "docs/technology/计算机基础/网络/02-网络基础知识.md",
@@ -207,9 +210,6 @@
     "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md",
     "docs/services/video-cms/00-简介.md",
     "docs/technology/架构/02-软件架构基础.md",
-    "docs/technology/编程语言/js/工程/node多环境.md",
-    "docs/technology/架构/03-常见的软件架构模式.md",
-    "docs/technology/架构/00-大纲.md",
-    "docs/technology/架构/01-引言-架构在软件开发中的重要性和作用.md"
+    "docs/technology/编程语言/js/工程/node多环境.md"
   ]
 }
