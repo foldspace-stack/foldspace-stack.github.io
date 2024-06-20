@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
+                "file": "blog/2024/06/使用 openvpn 作为代理.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
+                "file": "blog/2024/06/使用 openvpn 作为代理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
+                "file": "blog/2024/06/使用 openvpn 作为代理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md"
+                "file": "blog/2024/06/使用 openvpn 作为代理.md"
               }
             }
           }
@@ -163,8 +163,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "5cfce913abf1035a",
+  "active": "21cff30dc29b642c",
   "lastOpenFiles": [
+    "blog/2024/06/fastapi 接入 azure 的 openapi 接口.md",
+    "blog/2024/06/使用 openvpn 作为代理.md",
+    "blog/2024/06/fastapi 实现server side enevt(sse).md",
+    "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
+    "docs/services/video-cms/00-简介.md",
     "build/blog/atom.xml",
     "build/sitemap.xml",
     "build/blog/rss.xml",
@@ -175,7 +180,6 @@
     "build/index.html",
     "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍/index.html",
     "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍",
-    "build/docs/technology/云原生/大纲/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -189,7 +193,6 @@
     "templates/2024-05-29-test-post.md",
     "docs/technology/云厂商/GCP/Tools/GCP SDK 安装.md",
     "docs/technology/云厂商/GCP/Paas/GKE/GKE 的命令行.md",
-    "blog/2019-05-28-first-blog-post.md",
     "docs/technology/可观测/opentelemetry/java spring-boot  集成  opentelemetry 链路监控.md",
     "docs/technology/可观测/prometheus/nodejs pm2 配置 prometheus exporter.md",
     "docs/technology/效能/grafana 压测工具 K6 简介.md",
@@ -207,9 +210,6 @@
     "docs/technology/云厂商/AWS.md",
     "docs/services/video-cms/02-Wagtail 如何创建内容模板.md",
     "docs/technology/云原生/大纲.md",
-    "docs/technology/架构/05-安全架构设计.md",
-    "docs/technology/架构/06-架构师的角色和技能.md",
-    "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
-    "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md"
+    "docs/technology/架构/05-安全架构设计.md"
   ]
 }
