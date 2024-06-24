@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blog/2024/06/使用 openvpn 作为代理.md",
+                "file": "blog/2024/06/github上-代码安全-扫描配置-github-action.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/2024/06/使用 openvpn 作为代理.md",
+                "file": "blog/2024/06/github上-代码安全-扫描配置-github-action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/2024/06/使用 openvpn 作为代理.md",
+                "file": "blog/2024/06/github上-代码安全-扫描配置-github-action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/2024/06/使用 openvpn 作为代理.md"
+                "file": "blog/2024/06/github上-代码安全-扫描配置-github-action.md"
               }
             }
           }
@@ -165,17 +165,22 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
+    "blog/2024/06/Azure OpenAI API 限流问题.md",
+    "blog/2024/06/github上-代码安全-扫描配置-github-action.md",
+    "blog/2024/06/fastapi 实现server side enevt(sse).md",
+    "blog/2024/未命名.md",
+    "blog/2024/06/使用 openvpn 作为代理.md",
+    "blog/2024/06/fastapi 接入 azure 的 openapi 接口.md",
+    "build/sitemap.xml",
     "build/blog/atom.xml",
     "build/blog/rss.xml",
-    "build/sitemap.xml",
     "build/index.html",
-    "build/docs/ubcp/其他能力/intro/index.html",
-    "build/docs/ubcp/其他能力/intro",
-    "build/docs/ubcp/其他能力",
-    "build/docs/ubcp/translate-your-site/index.html",
-    "build/docs/ubcp/translate-your-site",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC/index.html",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC",
+    "build/docs/usage-experience/tools/intro/index.html",
+    "build/docs/usage-experience/products/intro/index.html",
+    "build/docs/usage-experience/translate-your-site/index.html",
+    "build/docs/usage-experience/tools/intro",
+    "build/docs/usage-experience/products/intro",
+    "build/docs/usage-experience/manage-docs-versions/index.html",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -185,9 +190,6 @@
     "build/img/docusaurus-social-card.jpg",
     "blog/安装 sentry.md",
     "blog/docker 被封之后.md",
-    "blog/2024/06/fastapi 接入 azure 的 openapi 接口.md",
-    "blog/2024/06/使用 openvpn 作为代理.md",
-    "blog/2024/06/fastapi 实现server side enevt(sse).md",
     "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
     "docs/services/video-cms/00-简介.md",
     "build/assets/images/Pasted image 20240619124553-7600b79e63542aa684373f5f10bee48b.png",
@@ -208,8 +210,6 @@
     "docs/technology/通用知识笔记/数据库/面试基础-数据库优化-索引.md",
     "docs/technology/通用知识笔记/数据库/ACID 和 事务 和 日志相关.md",
     "docs/technology/架构/04-架构设计原则.md",
-    "docs/technology/架构/01-引言-一些基本知识.md",
-    "docs/technology/云厂商/GCP.md",
-    "docs/technology/云厂商/AWS.md"
+    "docs/technology/架构/01-引言-一些基本知识.md"
   ]
 }

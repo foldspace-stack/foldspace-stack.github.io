@@ -21,7 +21,7 @@ docker run -it -d \
 	--cap-add=NET_ADMIN \
 	--device=/dev/net/tun \
 	--dns=8.8.8.8 \
-	-v /home/ec2-user/openvpn.ovpn:/config/config.ovpn \
+	-v ./openvpn.ovpn:/config/config.ovpn \
 	-e LOCAL_NETWORK=172.31.36.60/24 \
 	-p 8081:80 \
 	-p 8080:8080 \
