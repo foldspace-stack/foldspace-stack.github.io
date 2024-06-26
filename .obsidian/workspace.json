@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blog/安装 sentry.md",
+                "file": "docs/services/video-cms/00-简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/安装 sentry.md",
+                "file": "docs/services/video-cms/00-简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blog/安装 sentry.md"
+                "file": "docs/services/video-cms/00-简介.md"
               }
             }
           }
@@ -165,6 +165,9 @@
   },
   "active": "5cfce913abf1035a",
   "lastOpenFiles": [
+    "build/blog/atom.xml",
+    "build/sitemap.xml",
+    "build/blog/rss.xml",
     "build/index.html",
     "build/docs/ubcp/odoo/intro/index.html",
     "build/docs/ubcp/odoo/intro",
@@ -173,9 +176,6 @@
     "build/docs/ubcp/其他能力/intro",
     "build/docs/ubcp/其他能力",
     "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍/index.html",
-    "build/docs/technology/云厂商/GCP/IAAS/网络/CIDR 网络分配介绍",
-    "build/docs/ubcp/manage-docs-versions/index.html",
-    "build/docs/ubcp/manage-docs-versions",
     "build/assets/images/Pasted image 20240619124553-7600b79e63542aa684373f5f10bee48b.png",
     "build/assets/images/Pasted image 20240614180054-5e5f59c9607e57ead663438db150dc3f.png",
     "build/img/undraw_docusaurus_tree.svg",
