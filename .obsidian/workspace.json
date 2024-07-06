@@ -23,9 +23,11 @@
             "id": "21cff30dc29b642c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md"
+                "file": "docs/technology/网络/zerotier组网overlay 网络.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md",
+                "file": "docs/technology/网络/zerotier组网overlay 网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md",
+                "file": "docs/technology/网络/zerotier组网overlay 网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md"
+                "file": "docs/technology/网络/zerotier组网overlay 网络.md"
               }
             }
           }
@@ -163,17 +165,18 @@
   },
   "active": "21cff30dc29b642c",
   "lastOpenFiles": [
-    "build/sitemap.xml",
-    "build/blog/atom.xml",
-    "build/blog/rss.xml",
-    "build/index.html",
-    "build/docs/ubcp/odoo/intro/index.html",
-    "build/docs/ubcp/odoo/intro",
+    "build/docs/usage-experience/translate-your-site",
+    "build/docs/usage-experience",
     "build/docs/ubcp/odoo",
-    "build/docs/ubcp/其他能力/intro/index.html",
-    "build/docs/ubcp/其他能力/intro",
-    "build/docs/ubcp/其他能力",
-    "build/docs/technology/云厂商/GCP/DAAS/GCP Firestore 简介/index.html",
+    "build/docs/technology/云厂商/GCP/Tools/GCP SDK 安装/index.html",
+    "build/docs/technology/云原生/大纲/index.html",
+    "build/docs/technology/云厂商/GCP/IAAS/网络/GCP 创建 VPC 和 本地链接上 VPC/index.html",
+    "build/docs/technology/云厂商/GCP/IAAS/存储/GCP存储-磁盘对比",
+    "build/docs/technology/云厂商/GCP/Paas/GKE",
+    "build/docs/technology/硬件/戴尔/戴尔 R220ii 支持的 CPU 列表",
+    "build/docs/technology/云厂商/GCP/index.html",
+    "build/docs/technology/云厂商/GCP/DAAS/GCP 迁移一个 本地数据库到 cloud sql",
+    "build/assets/images/Pasted image 20240706180105-d33a7d51572e753deb25ea5d84a39f0a.png",
     "build/img/undraw_docusaurus_tree.svg",
     "build/img/undraw_docusaurus_react.svg",
     "build/img/undraw_docusaurus_mountain.svg",
@@ -181,11 +184,15 @@
     "build/img/foldspace-icon.png",
     "build/img/docusaurus.png",
     "build/img/docusaurus-social-card.jpg",
+    "docs/technology/网络/attachments/Pasted image 20240706180105.png",
+    "docs/technology/网络/attachments/Pasted image 20240706180101.png",
+    "docs/technology/网络/Cloudflare Tunnel 配置隧道代理和.md",
     "docs/technology/网络/zerotier组网overlay 网络.md",
+    "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
+    "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md",
     "docs/services/video-cms/01-Wagtail 如何编写编辑器插件？.md",
     "docs/services/video-cms/02-Wagtail 如何创建内容模板.md",
     "docs/services/video-cms/04-wagtail 如何扩展块对象.md",
-    "docs/services/video-cms/Drawing 2024-04-20 17.35.21.excalidraw.md",
     "docs/services/video-cms/03-Wagtail 如何扩展管理页面.md",
     "docs/services/video-cms/00-简介.md",
     "blog/2024/06/开源自建聊天工具平台 chatops zulip.md",
@@ -194,12 +201,8 @@
     "blog/2024/06/fastapi 接入 azure 的 openapi 接口.md",
     "blog/2024/06/fastapi 实现server side enevt(sse).md",
     "blog/2024/06/Azure OpenAI API 限流问题.md",
-    "build/assets/images/Pasted image 20240619124553-7600b79e63542aa684373f5f10bee48b.png",
-    "build/assets/images/Pasted image 20240614180054-5e5f59c9607e57ead663438db150dc3f.png",
-    "docs/technology/可观测/opentelemetry/attachments/Pasted image 20240614180054.png",
     "docs/technology/可观测/prometheus/nodejs pm2 配置 prometheus exporter.md",
     "docs/technology/可观测/opentelemetry/java spring-boot  集成  opentelemetry 链路监控.md",
-    "blog/2024/06/让 mac 的提醒事项 在工具栏 menubar 展示.md",
     "blog/docker 被封之后.md",
     "blog/安装 sentry.md",
     "templates/2024-05-29-test-post.md",
@@ -207,7 +210,6 @@
     "blog/2021-08-26-welcome/index.md",
     "docs/technology/效能/github-ci-runner 自己部署.md",
     "docs/technology/效能/grafana 压测工具 K6 简介.md",
-    "docs/technology/安全/Hashcorp Vault 自建 KMS 相关知识.md",
-    "docs/technology/计算机基础/网络/03-什么时CIDR.md"
+    "docs/technology/安全/Hashcorp Vault 自建 KMS 相关知识.md"
   ]
 }
