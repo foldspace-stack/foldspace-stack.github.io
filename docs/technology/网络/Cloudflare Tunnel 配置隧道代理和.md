@@ -28,20 +28,41 @@ be525304-11121-47cb-221-221 dafengstudio-all-node-forward 2024-07-12T12:48:24Z 1
 参考这里 https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/configure-tunnels/local-management/configuration-file/
 
 ```yaml
-tunnel: be525304-a989-47cb-b2c7-285432cca941
+tunnel: xxxxxx
 
-credentials-file: /root/.cloudflared/be525304-a989-47cb-b2c7-285432cca941.json
+credentials-file: /root/.cloudflared/xxxxxxx.json
+
+  
 
 warp-routing:
-ingress:
-- hostname: gitlab.widgetcorp.tech
 
-service: http://localhost:80
-
-- hostname: gitlab-ssh.widgetcorp.tech
-
-service: ssh://localhost:22
-
-- service: http_status:404
 enabled: true
+
+  
+
+ingress:
+
+- hostname: "*.dafengstudio.cn"
+
+service: http://172.23.32.50:80
+
+- hostname: "*"
+
+service: "http://172.23.32.50:80"
 ```
+
+然后 
+
+```bash
+cloudflared tunnel ingress validate
+```
+
+使生效
+
+```bash
+cloudflared tunnel route dns be525304-a989-47cb-b2c7-285432cca941 *.dafengstudio.cn
+
+```
+
+# 参考
+1. 
