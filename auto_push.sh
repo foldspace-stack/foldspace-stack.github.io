@@ -1,3 +1,4 @@
+. ./.env
 git pull
 #npm run clear
 npm run build
