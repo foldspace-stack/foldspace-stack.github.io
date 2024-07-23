@@ -1,3 +1,13 @@
+---
+slug: k3s-docker-register-mirror-proxy
+title: k3s 拉取私有镜像 和 代理镜像配置
+authors:
+  - timger
+tags:
+  - docker
+  - k3s
+  - k8s
+---
 
 写在 2024 年 7 月 docker hub 被墙之后
 
