@@ -1,6 +1,7 @@
 ---
 slug: Azure-OpenAI-API-限流问题
 title: Azure OpenAI API 限流问题
+date: 2024-06-23T10:00
 authors:
   - timger
 tags:

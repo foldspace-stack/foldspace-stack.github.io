@@ -1,6 +1,7 @@
 ---
 slug: k3s-docker-register-mirror-proxy
 title: k3s 拉取私有镜像 和 代理镜像配置
+date: 2024-07-23T10:00
 authors:
   - timger
 tags:

@@ -1,6 +1,7 @@
 ---
 slug: 开源自建聊天工具平台-chatops-zulip
 title: 开源自建聊天工具平台 chatops zulip
+date: 2024-06-23T10:00
 authors:
   - timger
 tags:

@@ -1,6 +1,7 @@
 ---
 slug: 让 mac 的提醒事项 在工具栏 menubar 展示
 title: 让 mac 的提醒事项 在工具栏 menubar 展示
+date: 2024-06-23T10:00
 authors: timger
 tags:
   - mac

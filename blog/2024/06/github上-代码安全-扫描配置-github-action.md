@@ -1,6 +1,7 @@
 ---
 slug: github上-代码安全-扫描配置-github-action
 title: github上-代码安全-扫描配置-github-action
+date: 2024-06-23T10:00
 authors:
   - timger
 tags:
