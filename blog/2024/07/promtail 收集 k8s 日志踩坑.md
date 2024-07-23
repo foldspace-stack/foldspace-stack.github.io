@@ -1,6 +1,7 @@
 ---
 slug: promtail-k8s-log
 title: promtail 收集 k8s 日志踩坑
+date: 2024-07-23T13:00
 authors:
   - timger
 tags:
