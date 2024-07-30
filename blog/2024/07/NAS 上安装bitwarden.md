@@ -65,6 +65,11 @@ docker run \
     registry.dafengstudio.cn/vaultwarden/server:latest
 ```
 
+![](attachments/Pasted%20image%2020240730171732.png)
+
+
+
+![](attachments/Pasted%20image%2020240730171711.png)
 # 参考
 1. https://zx1.fun/2022/09/21/%E4%BD%BF%E7%94%A8docker%E6%90%AD%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84bitwarden%E5%AF%86%E7%A0%81%E7%AE%A1%E7%90%86%E6%9C%8D%E5%8A%A1/
 2. https://hub.docker.com/r/vaultwarden/server
