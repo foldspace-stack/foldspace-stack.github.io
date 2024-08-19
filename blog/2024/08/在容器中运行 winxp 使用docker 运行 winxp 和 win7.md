@@ -55,10 +55,28 @@ http://127.0.0.1:8006/?resize=scale&autoconnect=true
 
 ## win7
 
+![](attachments/Pasted%20image%2020240819194955.png)
+
+
+
+![](attachments/Pasted%20image%2020240819194940.png)
+
+![](attachments/Pasted%20image%2020240819195318.png)
+![](attachments/Pasted%20image%2020240819195844.png)
+
+![](attachments/Pasted%20image%2020240819205318.png)
+
 
 ## 改为 可以 开箱即用的镜像
 
 ```
 docker commit b46f8da3f4f4 registry.dafengstudio.cn/windows:xp
 docker push  registry.dafengstudio.cn/windows:xp
+```
+
+win7
+
+```
+docker commit bce2411bd9a4 registry.dafengstudio.cn/windows:win7
+docker push  registry.dafengstudio.cn/windows:win7
 ```
