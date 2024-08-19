@@ -2,5 +2,7 @@
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "autoConvertHtml": false,
+  "promptDelete": false
 }
