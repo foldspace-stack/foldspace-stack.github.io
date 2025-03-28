@@ -1,0 +1,1355 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "heapq",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "heapq",
+        "description": "heapq",
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "ThreadPoolExecutor",
+        "importPath": "concurrent.futures",
+        "description": "concurrent.futures",
+        "isExtraImport": true,
+        "detail": "concurrent.futures",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "nacos",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "nacos",
+        "description": "nacos",
+        "detail": "nacos",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flat-cache@3.2.0.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.flatted@3.3.3.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules..pnpm.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_Known",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _Known:\n    def __init__(self):\n        self.key = []\n        self.value = []\nclass _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "_String",
+        "kind": 6,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "peekOfCode": "class _String:\n    def __init__(self, value):\n        self.value = value\ndef _array_keys(value):\n    keys = []\n    i = 0\n    for _ in value:\n        keys.append(i)\n        i += 1\n    return keys",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "parse",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "peekOfCode": "def parse(value, *args, **kwargs):\n    json = _json.loads(value, *args, **kwargs)\n    wrapped = []\n    for value in json:\n        wrapped.append(_wrap(value))\n    input = []\n    for value in wrapped:\n        if isinstance(value, _String):\n            input.append(value.value)\n        else:",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "stringify",
+        "kind": 2,
+        "importPath": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "description": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "peekOfCode": "def stringify(value, *args, **kwargs):\n    known = _Known()\n    input = []\n    output = []\n    i = int(_index(known, input, value))\n    while i < len(input):\n        output.append(_transform(known, input, input[i]))\n        i += 1\n    return _json.dumps(output, *args, **kwargs)",
+        "detail": ".obsidian.plugins.foldspace-draft-to-thin.node_modules.flatted.python.flatted",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.0.1.两数之和.solution",
+        "description": "docs.technology.算法.leecode.hot100.hot.0.1.两数之和.solution",
+        "peekOfCode": "def solution(nums: List[int], target: int):\n    memo = {}\n    for i, elem in enumerate(nums):\n        x = target - elem\n        print(memo)\n        if memo.get(elem) is not None:\n            return [memo[elem], i]\n        memo[x] = i\nif __name__ == '__main__':\n    _ = solution([2, 7, 11, 15], 9)",
+        "detail": "docs.technology.算法.leecode.hot100.hot.0.1.两数之和.solution",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "peekOfCode": "class ListNode(object):\n    val: int\n    next: 'ListNode'\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n    def __str__(self):\n        s = \"\"\n        tmp = self\n        while tmp is not None:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "documentation": {}
+    },
+    {
+        "label": "listToChain",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "peekOfCode": "def listToChain(nums: List):\n    head = ListNode(0)\n    dy = head\n    for index,i in enumerate(nums):\n        dy.val = i\n        if index < len(nums)-1:\n            dy.next = ListNode(0)\n            dy = dy.next\n    return head\ndef chain2List(c: ListNode):",
+        "detail": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "documentation": {}
+    },
+    {
+        "label": "chain2List",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "peekOfCode": "def chain2List(c: ListNode):\n    _ = []\n    dy = c\n    while dy is not None:\n        _.append(dy.val)\n        dy = dy.next\n    return _\ndef solution(chain1: ListNode, chain2: ListNode):\n    \"\"\"\n    \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "peekOfCode": "def solution(chain1: ListNode, chain2: ListNode):\n    \"\"\"\n    \"\"\"\n    head = ListNode(0)\n    dy_head = head\n    chain_1_dy = chain1\n    chain_2_dy = chain2\n    carry = 0\n    while chain_1_dy or chain_2_dy:\n        if chain_1_dy is None:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s1",
+        "description": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s1",
+        "peekOfCode": "def solution(chain1: List[int], chain2: List[int]):\n    \"\"\"\n    \"\"\"\n    l1_head_i = 0\n    l2_headr_i = 0\n    d1 = 0\n    d2 = 0\n    next_add = 0\n    r = []\n    while d1 < len(chain1) or d2 < len(chain2) or next_add > 0:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.1.2.两数相加.s1",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.s",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    if len(s) <= 1:\n        return True\n    i = 0\n    stack = deque()\n    rst = True\n    e_map = {",
+        "detail": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.回溯",
+        "peekOfCode": "def solution(s: str):\n    stack = []\n    map = {\"}\": \"{\", \"]\": \"[\", \")\": \"(\"}\n    for i in s:\n        if len(stack) > 0 and stack[-1] == map.get(i):\n            \"\"\"\n            ） 时候 如果 内部 为 （ 弹出\n            \"\"\"\n            stack.pop()\n        else:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.10.20.有效的括号.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "peekOfCode": "class TreeNode(object):\n    val: int\n    next: 'TreeNode'\n    def __init__(self, val, next=None):\n        self.val = val\n        self.next = next\ndef solution(nums1: TreeNode, nums2: TreeNode):\n    \"\"\"\n    滑动窗口\n    \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "peekOfCode": "def solution(nums1: TreeNode, nums2: TreeNode):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    if nums1 is None:\n        return nums2\n    if nums2 is None:\n        return nums1\n    p_1 = nums1\n    p_2 = nums1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.s",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(list1: Optional[ListNode], list2: Optional[ListNode]):\n    f_node=ListNode(-1)\n    pre=f_node\n    while list1 and list2:\n        if list1.val < list2.val:\n            pre.next=list1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "peekOfCode": "def solution(list1: Optional[ListNode], list2: Optional[ListNode]):\n    f_node=ListNode(-1)\n    pre=f_node\n    while list1 and list2:\n        if list1.val < list2.val:\n            pre.next=list1\n            list1=list1.next\n        else:\n            pre.next=list2\n            list2=list2.next",
+        "detail": "docs.technology.算法.leecode.hot100.hot.11.21.合并两个有序链表.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.12.22.括号生成.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.12.22.括号生成.回溯",
+        "peekOfCode": "def solution(n: int):\n    rsts = []\n    def backtrace(path, left: int, right):\n        if len(path) == n * 2:\n            \"\"\"\n            退出递归条件\n            \"\"\"\n            rsts.append(path)\n            return\n        if left < n:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.12.22.括号生成.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "peekOfCode": "def solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1\n        f_node:ListNode=ListNode(None)\n        dy:ListNode= f_node\n        while list1 and list2:\n            if list1.val<list2.val:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.分治",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "peekOfCode": "def solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1\n        f_node:ListNode=ListNode(None)\n        dy:ListNode= f_node\n        while list1 and list2:\n            if list1.val<list2.val:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.归并",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\n    def __lt__(self, other):\n        return self.val < other.val\ndef solution(lists: List[Optional[ListNode]]):\n    min_heap=[]\n    for l in lists:\n        if l:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "peekOfCode": "def solution(lists: List[Optional[ListNode]]):\n    min_heap=[]\n    for l in lists:\n        if l:\n            heapq.heappush(min_heap, l)\n    f_node=ListNode(0)\n    dy=f_node\n    while min_heap:\n        node = heapq.heappop(min_heap)\n        dy.next=node",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.最小堆",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "description": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "peekOfCode": "def solution(lists: List[Optional[ListNode]]):\n    def merge_two_list(list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:\n        if list1 is None:\n            return list2\n        if list2 is None:\n            return list1\n        f_node: ListNode = ListNode(None)\n        dy: ListNode = f_node\n        while list1 and list2:\n            if list1.val < list2.val:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.13.23.合并K个升序链表.迭代",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.14.31.下一个排列.数字技巧",
+        "description": "docs.technology.算法.leecode.hot100.hot.14.31.下一个排列.数字技巧",
+        "peekOfCode": "def solution(nums:list):\n    i = len(nums) - 2\n    while i >= 0 and nums[i] >= nums[i + 1]:\n        i -= 1\n    if i >= 0:  # If the list is not entirely decreasing\n        # Step 2: Find the element larger than nums[i]\n        j = len(nums) - 1\n        while j >= 0 and nums[j] <= nums[i]:\n            j -= 1\n        # Step 3: Swap nums[i] and nums[j]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.14.31.下一个排列.数字技巧",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.动态规划",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    dp[i] 表示 i 个字符串的 匹配长度\n    \"\"\"\n    def init_dp()->List[int]:\n        return [0 for i in range(len(s))]\n    if len(s) < 2 or s is None:\n        return 0\n    def state_trans(dp, i, s):\n        \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.双指针",
+        "peekOfCode": "def solution(s:str):\n    left_indx=0\n    right_index=len(s)-1\n    while left_indx<right_index:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.栈",
+        "description": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.栈",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    栈道记录一个 最早连续的下标 和 ( 的下标\n    如果 未匹配 移动 最早下标\n    \"\"\"\n    stack = [-1]\n    max_length = 0\n    for index in range(len(s)):\n        \"\"\"\n        )((() ",
+        "detail": "docs.technology.算法.leecode.hot100.hot.15.32.最长有效括号.栈",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.16.33.搜索旋转排序数组.二分搜索",
+        "description": "docs.technology.算法.leecode.hot100.hot.16.33.搜索旋转排序数组.二分搜索",
+        "peekOfCode": "def solution(nums: list, target: int):\n    left = 0\n    right = len(nums) - 1\n    while left <= right:\n        mid = (left + right) // 2 # 每次区间的中间值\n        if nums[mid] == target:\n            return mid\n        if nums[left] <= nums[mid]:  # target 在左边\n            if nums[left] <= target <= nums[mid]:\n                # 左边区间有序",
+        "detail": "docs.technology.算法.leecode.hot100.hot.16.33.搜索旋转排序数组.二分搜索",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.17.34.在排序数组中查找元素的第一个和最后一个位置.二分搜索",
+        "description": "docs.technology.算法.leecode.hot100.hot.17.34.在排序数组中查找元素的第一个和最后一个位置.二分搜索",
+        "peekOfCode": "def solution(nums: list, target: int):\n    def find_first(nums: list, target: int):\n        left = 0\n        right = len(nums) - 1\n        while left <= right:\n            mid = left + (right - left) // 2\n            if nums[mid] <= target:\n                left = mid + 1\n            else:\n                right = mid - 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.17.34.在排序数组中查找元素的第一个和最后一个位置.二分搜索",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.18.39.组合总和.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.18.39.组合总和.回溯",
+        "peekOfCode": "def solution(candidates: list, target: int):\n    result = []\n    def backtrack(start, path, target):\n        if target == 0:\n            # 当目标和为0时，将当前路径添加到结果中\n            result.append(path[:])\n            return\n        elif target < 0:\n            # 当目标和小于0时，结束当前路径的探索\n            return",
+        "detail": "docs.technology.算法.leecode.hot100.hot.18.39.组合总和.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.19.42.接雨水.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.19.42.接雨水.双指针",
+        "peekOfCode": "def solution(height: List[int]):\n    \"\"\"\n    当前索引能存的水量为 前面>当前 和右边 > 当前 中最小的数-当前的高度\n    \"\"\"\n    if len(height) < 3: return 0  # 数组长度小于3，不可能积水，返回0\n    left, right = 0, len(height) - 1  # 初始化左右指针\n    left_max, right_max = height[left], height[right]  # 初始化左右最高墙的高度\n    water_trapped = 0  # 初始化积水总量\n    while left < right:  # 当左指针小于右指针时，循环\n        if left_max < right_max:  # 左边的最高墙低于右边的最高墙",
+        "detail": "docs.technology.算法.leecode.hot100.hot.19.42.接雨水.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    char_index_map = {}\n    n = len(s)\n    ans = 0\n    left, right = 0, 0\n    while right < n:\n        right_val = s[right]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s1",
+        "description": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s1",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    rst = 0\n    p_left = 0\n    p_right = 0\n    char_set = set()\n    while p_right < len(s) and p_left < len(s):\n        print('x,y', p_left, p_right,char_set,s[p_right])",
+        "detail": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s1",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s_violence",
+        "description": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s_violence",
+        "peekOfCode": "def solution(s: str):\n    tmp_chars:set=set([])\n    max_length=0\n    for i_index,char_i in enumerate(s):\n        _length = 0\n        for charj in s[i_index:]:\n            if charj in tmp_chars:\n                break\n            _length+=1\n            tmp_chars.add(charj)",
+        "detail": "docs.technology.算法.leecode.hot100.hot.2.3.无重复字符的最长子串.s_violence",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.20.46.全排列.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.20.46.全排列.回溯",
+        "peekOfCode": "def solution(nums: List[int]):\n    \"\"\"\n    回溯法\n    路径 \n    \"\"\"\n    rst = []\n    length = len(nums)\n    visited = [False for i in range(length)]\n    def backtrack(path, chooice_list):\n        \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.20.46.全排列.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.循环",
+        "description": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.循环",
+        "peekOfCode": "def solution(matrix: List[List[int]]):\n    n = len(matrix)\n    # 转置矩阵\n    for i in range(n):\n        for j in range(i, n):\n            matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]\n    # 反转每一行\n    for i in range(n):\n        matrix[i].reverse()",
+        "detail": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.循环",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.迭代",
+        "description": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.迭代",
+        "peekOfCode": "def solution(matrix: List[List[int]]):\n    length = len(matrix)\n    for i in range(length // 2): # 循环上半部分\n        for j in range(i, length - i - 1): #循环\n            temp = matrix[i][j]\n            matrix[i][j] = matrix[length - 1 - j][i] # 左下移动到左上\n            matrix[length - 1 - j][i] = matrix[length - 1 - i][length - 1 - j] # 右下移动到左上\n            matrix[length - 1 - i][length - 1 - j] = matrix[j][length - 1 - i]\n            matrix[j][length - 1 - i] = temp",
+        "detail": "docs.technology.算法.leecode.hot100.hot.21.48.旋转图像.迭代",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.22.49.字母异位词分组.哈希",
+        "description": "docs.technology.算法.leecode.hot100.hot.22.49.字母异位词分组.哈希",
+        "peekOfCode": "def solution( strs: List[str]):\n    rst_map={}\n    for s in strs:\n        key=''.join(sorted(s))\n        if key in rst_map:\n            rst_map[key].append(s)\n        else:\n            rst_map[key]=[s,]\n    return list(rst_map.values())",
+        "detail": "docs.technology.算法.leecode.hot100.hot.22.49.字母异位词分组.哈希",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.23.53.最大子数组和.循环",
+        "description": "docs.technology.算法.leecode.hot100.hot.23.53.最大子数组和.循环",
+        "peekOfCode": "def solution(nums: List[int]):\n    sum_max = nums[0]\n    current_sum = nums[0]\n    for num in nums[1:]:\n        \"\"\"\n        -2\n        1 -> -1,-2 -> -1  \n        -3 -> \n        4\n        -1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.23.53.最大子数组和.循环",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.24.55.跳跃游戏.贪心",
+        "description": "docs.technology.算法.leecode.hot100.hot.24.55.跳跃游戏.贪心",
+        "peekOfCode": "def solution(nums: List[int]):\n    # 确定问题的解空间\n    max_reach=0\n    for i in range(len(nums)):\n        if i > max_reach: # 当前的位置 > 最大可大的位置\n            return False # 直接\n        max_reach = max(max_reach, i + nums[i]) #当前位置+ 之前最远的位置 \n    return max_reach >= len(nums) - 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.24.55.跳跃游戏.贪心",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.25.56.合并区间.预先排序",
+        "description": "docs.technology.算法.leecode.hot100.hot.25.56.合并区间.预先排序",
+        "peekOfCode": "def solution(intervals: List[List[int]]):\n    new_arr = sorted(intervals, key=lambda x: x[0])\n    rst = []\n    range_stack = []\n    for i in range(len(new_arr)):\n        \"\"\"\n        i == 0:\n            时候\n        i:\n        i == last:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.25.56.合并区间.预先排序",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.26.62.不同路径.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.26.62.不同路径.动态规划",
+        "peekOfCode": "def solution(m: int, n: int):\n    dp = [[0] * n for _ in range(m)]\n    # 初始化边界条件\n    for i in range(m): # 每个节点可以往右边\n        \"\"\"\n        [\n        [0,0,0,0,0,0,0],\n        [0,0,0,0,0,0,0],\n        [0,0,0,0,0,0,0],\n        ]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.26.62.不同路径.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.27.64.最小路径和.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.27.64.最小路径和.动态规划",
+        "peekOfCode": "def solution(grid: List[List[int]]):\n    \"\"\"\n    动态规划\n    \"\"\"\n    m = len(grid) #高\n    n = len(grid[0]) #宽\n    # 初始化 dp 数组\n    dp = [[0] * n for _ in range(m)]\n    dp[0][0] = grid[0][0] # 最开始的是\n    # 初始化第一行和第一列",
+        "detail": "docs.technology.算法.leecode.hot100.hot.27.64.最小路径和.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.28.70.爬楼梯.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.28.70.爬楼梯.动态规划",
+        "peekOfCode": "def solution(n: int):\n    length = n\n    if n < 0:\n        return 0\n    elif n == 1:\n        return 1\n    elif n==2:\n        return 2\n    dp = [0 for i in range(length)]\n    dp[0] = 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.28.70.爬楼梯.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.29.72.编辑距离.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.29.72.编辑距离.动态规划",
+        "peekOfCode": "def solution(word1: str, word2: str):\n    len1 = len(word1)\n    len2 = len(word2)\n    dp = [[0] * (len2 + 1) for i in range(len1 + 1)]\n    for i in range(len1 + 1):\n        dp[i][0] = i\n    for j in range(len2 + 1):\n        dp[0][j] = j\n    for i in range(1, len1 + 1):\n        for j in range(1, len2 + 1):",
+        "detail": "docs.technology.算法.leecode.hot100.hot.29.72.编辑距离.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s",
+        "peekOfCode": "def solution(nums1: List[int], num2: List[int]):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    m = nums1 + num2\n    print(m)\n    m.sort()\n    if len(m) % 2 == 0:\n        _ = m[len(m) // 2 -1:len(m) // 2+1 ]\n        print(\"sl\",_)",
+        "detail": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s1",
+        "description": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s1",
+        "peekOfCode": "def solution(nums1: List[int], nums2: List[int]):\n    \"\"\"\n    二分查找\n    https://zhuanlan.zhihu.com/p/479958546\n    \"\"\"\n    def bbinary_searchin(arr1:List[int],arr2:List[int]):\n        pass\nif __name__ == '__main__':\n    print(solution([1, 2], [3, 4]))\n    print(solution([1, 2], [3]))",
+        "detail": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s1",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s2",
+        "description": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s2",
+        "peekOfCode": "def solution(nums1: List[int], nums2: List[int]):\n    \"\"\"\n    二分查找\n    https://zhuanlan.zhihu.com/p/479958546\n    \"\"\"\n    if len(nums1) > len(nums2):\n        nums1, nums2 = nums2, nums1\n    nums1_length, nums2_length = len(nums1), len(nums2)\n    left_pos, right_pos = 0, nums1_length\n    half_len = (nums1_length + nums2_length + 1) // 2",
+        "detail": "docs.technology.算法.leecode.hot100.hot.3.4.寻找两个正序数组的中位数.s2",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.30.75.颜色分类.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.30.75.颜色分类.双指针",
+        "peekOfCode": "def solution(nums: List[int]):\n    red, white, blue = 0, 0, len(nums) - 1\n    while white<= blue:\n        if nums[white] ==0:\n            nums[red],nums[white]=nums[white],nums[red]\n            red+=1\n            white+=1\n        elif nums[white] ==1:\n            white+=1\n        else:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.30.75.颜色分类.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.31.76.最小覆盖子串.滑动窗口",
+        "description": "docs.technology.算法.leecode.hot100.hot.31.76.最小覆盖子串.滑动窗口",
+        "peekOfCode": "def solution(s: str, t: str):\n    left=0\n    right=len(s)-1\n    tmp_rst=\"\"\n    while left<right:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.31.76.最小覆盖子串.滑动窗口",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "peekOfCode": "def solution(nums: List[int]):\n    rst = []\n    def backtrack(start, path):\n        rst.append(path)\n        for i in range(start, len(nums)):\n            \"\"\"\n            0，1 ，2 ，3\n            0\n            [[]]\n            start=1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "subsets",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "peekOfCode": "def subsets(nums):\n    res = [[]]\n    for num in nums:\n        res += [curr + [num] for curr in res]\n    return res\nif __name__ == '__main__':\n    print(solution([1]))\n    print(solution([1,2]))",
+        "detail": "docs.technology.算法.leecode.hot100.hot.32.78.子集.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.33.79.单词搜索.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.33.79.单词搜索.回溯",
+        "peekOfCode": "def solution(board: List[List[str]], word: str):\n    if not board:\n        return False\n    visited = [[False for _ in range(len(board[0]))] for _ in range(len(board))]\n    def dfs(board, i, j, word, k, visited):\n        if k == len(word):\n            return True\n        if i < 0 or i >= len(board) or j < 0 or j >= len(board[0]) or board[i][j] != word[k] or visited[i][j]:\n            return False\n        visited[i][j] = True",
+        "detail": "docs.technology.算法.leecode.hot100.hot.33.79.单词搜索.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.栈",
+        "description": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.栈",
+        "peekOfCode": "def solution(heights: List[int]):\n    stack = []\n    heights.append(0)  # 在高度数组末尾添加一个高度为0的柱形\n    max_area = 0\n    for i in range(len(heights)):\n        \"\"\"\n        [2,1,5,6,2,3]\n        i:0\n        cur:[2]\n        stack:[]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.栈",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.迭代",
+        "description": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.迭代",
+        "peekOfCode": "def solution(heights: List[int]):\n    length = len(heights)\n    max_area = 0\n    for i in range(length):\n        left = i\n        while left > 0 and heights[left - 1] >= heights[i]:\n            \"\"\"\n            左边的高度 > 当前高度 可以左移动\n            \"\"\"\n            left -= 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.34.84.柱状图中最大的矩形.迭代",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.35.85.最大矩形.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.35.85.最大矩形.动态规划",
+        "peekOfCode": "def solution(matrix: List[List[str]]):\n    if not matrix:\n        return 0\n    y_length = len(matrix)\n    x_length = len(matrix[0])\n    left = [0] * x_length  # 初始化左边界\n    right = [x_length] * x_length  # 初始化右边界\n    height = [0] * x_length  # 初始化高度\n    max_area = 0\n    for y_i in range(y_length):",
+        "detail": "docs.technology.算法.leecode.hot100.hot.35.85.最大矩形.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "description": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "peekOfCode": "class TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left = left\n        self.right = right\ndef solution(root: Optional[TreeNode]) -> List[int]:\n    rst=[]\n    if root is None:\n        return rst\n    def traver(root:Optional[TreeNode]):",
+        "detail": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "description": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "peekOfCode": "def solution(root: Optional[TreeNode]) -> List[int]:\n    rst=[]\n    if root is None:\n        return rst\n    def traver(root:Optional[TreeNode]):\n        if root:\n            traver(root.left)\n            rst.append(root.val)\n            traver(root.right)\n    traver(root)",
+        "detail": "docs.technology.算法.leecode.hot100.hot.36.94.二叉树的中序遍历.循环",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.37.96.不同的二叉搜索树.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.37.96.不同的二叉搜索树.动态规划",
+        "peekOfCode": "def solution(n:int):\n    if n == 0 or n == 1:\n        return 1\n    dp = [0] * (n + 1)\n    dp[0] = 1\n    dp[1] = 1\n    for i in range(2, n + 1):\n        for j in range(1, i + 1):\n            dp[i] += dp[j - 1] * dp[i - j]\n    return dp[n]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.37.96.不同的二叉搜索树.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "description": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "peekOfCode": "class TreeNode:\n    def __init__(self, val=0, left=None, right=None):\n        self.val = val\n        self.left: TreeNode = left\n        self.right: TreeNode = right\ndef solution(root: Optional[TreeNode]) -> bool:\n    def helper(node, lower=float('-inf'), upper=float('inf')):\n        if not node:\n            return True\n        val = node.val",
+        "detail": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "description": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "peekOfCode": "def solution(root: Optional[TreeNode]) -> bool:\n    def helper(node, lower=float('-inf'), upper=float('inf')):\n        if not node:\n            return True\n        val = node.val\n        if val <= lower or val >= upper:\n            return False\n        if not helper(node.right, val, upper):\n            return False\n        if not helper(node.left, lower, val):",
+        "detail": "docs.technology.算法.leecode.hot100.hot.38.98.验证二叉搜索树.递归",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.s",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    滑动窗口方式解决\n    \"\"\"\n    if s is None or len(s)<=1:\n        return s\n    def check_if_is_right(_str, index, j=0):\n        left = _str[index]\n        right = _str[index]\n        while left == right:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.动态规划",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    1. 子问题\n    \"\"\"\n    str_length = len(s)\n    rst = s[0]\n    max_length = 1\n    global_map = {\n        'rst': rst,\n        'max_length': max_length",
+        "detail": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解",
+        "description": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    1.双重循环\n    \"\"\"\n    result = ''\n    total_length = len(s)\n    def vaild_is(current_index: int, s: str, check_dp: bool):\n        left_index = current_index - 1\n        right_index = current_index + 1\n        tmp_rst = s[current_index]",
+        "detail": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解2",
+        "description": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解2",
+        "peekOfCode": "def solution(s: str):\n    total_len = len(s)\n    if total_len <= 1:\n        return s\n    rst = s[0]\n    tmp_max_len = 1\n    def vaild(ts: str, left_index: int, right_index: int):\n        \"\"\"\n        往中间计算\n        \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.4.5.最长回文子串.暴力求解2",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.s",
+        "peekOfCode": "def solution(s: str, p: str):\n    \"\"\"\n    递归\n    \"\"\"\n    in_str = s\n    pt = p\n    if not pt:\n        return not in_str\n    first_match = bool(in_str) and pt[0] in {in_str[0], '.'}\n    if len(pt) >= 2 and pt[1] == '*':",
+        "detail": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.动态规划",
+        "description": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.动态规划",
+        "peekOfCode": "def solution(target_str: str, regx_pattern: str):\n    str_length = len(target_str)\n    regx_length = len(regx_pattern)\n    def init_dp():\n        dp = [[False for i in range(0, regx_length + 1)] for j in range(str_length + 1)]\n        dp[0][0] = True\n        return dp\n    dp = init_dp()\n    def stats_transition(dp, i, j, target_str: str, regx_pattern: str):\n        \"\"\"",
+        "detail": "docs.technology.算法.leecode.hot100.hot.5.10.正则表达式匹配.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.s",
+        "description": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.s",
+        "peekOfCode": "def solution(s: str):\n    \"\"\"\n    滑动窗口\n    \"\"\"\n    if len(s)<=1:\n        return s\n    def check_if_is_right(_str, index, j=0):\n        left = _str[index]\n        right = _str[index]\n        while left == right:",
+        "detail": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.s",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.双指针",
+        "peekOfCode": "def solution(height:list):\n    max_area=0\n    left_p=0\n    right_p=len(height)-1\n    while left_p<right_p:\n        area = min(height[left_p],height[right_p])*(right_p-left_p)\n        if area > max_area:\n            max_area=area\n        if height[left_p] < height[right_p]:\n            left_p+=1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.暴力",
+        "description": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.暴力",
+        "peekOfCode": "def solution(height_list:list):\n    max_area=0\n    for i in range(0,len(height_list)):\n        for j in range(0,len(height_list)):\n            area=min(height_list[i],height_list[j])*(j-i)\n            if area > max_area:\n                max_area=area\n    return max_area",
+        "detail": "docs.technology.算法.leecode.hot100.hot.6.11.盛最多水的容器.暴力",
+        "documentation": {}
+    },
+    {
+        "label": "soultion",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.7.15.三数之和.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.7.15.三数之和.双指针",
+        "peekOfCode": "def soultion(nums: list):\n    rsts = []\n    nums = sorted(nums)\n    for i in range(len(nums)):\n        if nums[i] > 0:\n            return rsts\n        # 去重\n        if i > 0 and nums[i] == nums[i - 1]:\n            continue\n        left_p = i + 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.7.15.三数之和.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.8.17.电话号码的字母组合.回溯",
+        "description": "docs.technology.算法.leecode.hot100.hot.8.17.电话号码的字母组合.回溯",
+        "peekOfCode": "def solution(digits: list):\n    KEY = {'2': ['a', 'b', 'c'],\n           '3': ['d', 'e', 'f'],\n           '4': ['g', 'h', 'i'],\n           '5': ['j', 'k', 'l'],\n           '6': ['m', 'n', 'o'],\n           '7': ['p', 'q', 'r', 's'],\n           '8': ['t', 'u', 'v'],\n           '9': ['w', 'x', 'y', 'z']}\n    rsts = []",
+        "detail": "docs.technology.算法.leecode.hot100.hot.8.17.电话号码的字母组合.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "description": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(head: Optional[ListNode], n: int):\n    \"\"\"\n    双指针\n    \"\"\"\n    dy: ListNode = ListNode(next=head)\n    first: ListNode = dy",
+        "detail": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "description": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "peekOfCode": "def solution(head: Optional[ListNode], n: int):\n    \"\"\"\n    双指针\n    \"\"\"\n    dy: ListNode = ListNode(next=head)\n    first: ListNode = dy\n    second: ListNode = dy\n    i = 0\n    while i <= n:\n        i += 1",
+        "detail": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.solution",
+        "documentation": {}
+    },
+    {
+        "label": "ListNode",
+        "kind": 6,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "peekOfCode": "class ListNode:\n    def __init__(self, val=0, next=None):\n        self.val = val\n        self.next = next\ndef solution(head: Optional[ListNode], n: int):\n    \"\"\"\n    双指针\n    \"\"\"\n    dy: ListNode = ListNode(next=head)\n    length = 0",
+        "detail": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "solution",
+        "kind": 2,
+        "importPath": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "description": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "peekOfCode": "def solution(head: Optional[ListNode], n: int):\n    \"\"\"\n    双指针\n    \"\"\"\n    dy: ListNode = ListNode(next=head)\n    length = 0\n    first: ListNode = head\n    while first:\n        length += 1\n        first = first.next",
+        "detail": "docs.technology.算法.leecode.hot100.hot.9.19.删除链表的倒数第N个结点.双指针",
+        "documentation": {}
+    },
+    {
+        "label": "divide_and_conquer",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.分治",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.分治",
+        "peekOfCode": "def divide_and_conquer(problem, *params):\n    # 辅助函数：分解问题\n    def split_problem(problem, *params):\n        # 实现问题的分解逻辑\n        pass\n    # 辅助函数：合并子问题的解\n    def merge(subresults):\n        # 实现合并逻辑\n        pass\n    # 辅助函数：直接求解",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.分治",
+        "documentation": {}
+    },
+    {
+        "label": "dynamic_programming",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.动态规划",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.动态规划",
+        "peekOfCode": "def dynamic_programming(problem):\n    # 辅助函数：初始化状态\n    def initialize_dp(problem):\n        # 实现状态初始化的逻辑\n        pass\n    # 辅助函数：状态转移方程\n    def state_transition(dp, i, problem):\n        # 实现状态转移的逻辑\n        # 通常涉及到对之前状态的引用和计算\n        pass",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.动态规划",
+        "documentation": {}
+    },
+    {
+        "label": "backtrack",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "peekOfCode": "def backtrack(path, options):\n    def is_solution(path):\n        # 根据具体问题实现解决方案的判断逻辑\n        pass\n    # 示例函数，添加解决方案\n    def add_solution(path):\n        # 根据具体问题实现解决方案的记录逻辑\n        pass\n    # 示例函数，判断当前选择是否有效 有效继续往下\n    def is_valid(option, path):",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "solve_problem",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "peekOfCode": "def solve_problem():\n    path = []  # 存放当前的路径或选择序列\n    options = []  # 可选的选择列表\n    # 根据具体问题初始化options\n    backtrack(path, options)\n# 调用函数开始解题\nsolve_problem()",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.回溯",
+        "documentation": {}
+    },
+    {
+        "label": "enumeration_algorithm",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.枚举",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.枚举",
+        "peekOfCode": "def enumeration_algorithm(problem):\n    # 辅助函数：生成解空间中的候选解\n    def solution_space(problem):\n        # 实现生成解空间的逻辑\n        pass\n        return []\n    # 辅助函数：检查候选解是否有效\n    def is_valid_solution(candidate, problem):\n        # 实现检查逻辑\n        pass",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.枚举",
+        "documentation": {}
+    },
+    {
+        "label": "greedy_algorithm",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.贪心",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.贪心",
+        "peekOfCode": "def greedy_algorithm(elements, is_valid, select, save_result):\n    # 辅助函数：判断当前选择是否有效\n    def is_valid(choice):\n        # 实现判断逻辑\n        pass\n    # 辅助函数：根据贪心标准选择最优解\n    def select(elements):\n        # 实现选择逻辑\n        pass\n    # 辅助函数：将有效的选择加入结果集",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.贪心",
+        "documentation": {}
+    },
+    {
+        "label": "recursion_func",
+        "kind": 2,
+        "importPath": "docs.technology.算法.数据结构和通用算法.通用算法.模板.递归",
+        "description": "docs.technology.算法.数据结构和通用算法.通用算法.模板.递归",
+        "peekOfCode": "def recursion_func(params):\n    def base_case_condition(params):\n        pass\n    def prepare_params(params):\n        pass\n    def construct_result(sub_problem_result):\n        pass\n    if base_case_condition(params):\n        base_case_value=0\n        return base_case_value",
+        "detail": "docs.technology.算法.数据结构和通用算法.通用算法.模板.递归",
+        "documentation": {}
+    },
+    {
+        "label": "HashMap",
+        "kind": 6,
+        "importPath": "docs.technology.通用知识笔记.map.hash-map",
+        "description": "docs.technology.通用知识笔记.map.hash-map",
+        "peekOfCode": "class HashMap:\n    def __init__(self):\n        self.size = 64\n        self.map = [None] * self.size\n    def _get_hash(self, key):\n        hash = 0\n        for char in str(key):\n            hash += ord(char)\n        return hash % self.size\n    def add(self, key, value):",
+        "detail": "docs.technology.通用知识笔记.map.hash-map",
+        "documentation": {}
+    },
+    {
+        "label": "h",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.map.hash-map",
+        "description": "docs.technology.通用知识笔记.map.hash-map",
+        "peekOfCode": "h = HashMap()",
+        "detail": "docs.technology.通用知识笔记.map.hash-map",
+        "documentation": {}
+    },
+    {
+        "label": "test_push_config",
+        "kind": 2,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "def test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''\n                          id:1\n                          '''.strip(), app_name=\"test_app\", config_type=\"yaml\")\n    # no auth mode\n    # auth mode\n    # client = nacos.NacosClient(SERVER_ADDRESSES, namespace=NAMESPACE, ak=\"{ak}\", sk=\"{sk}\")",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_service",
+        "kind": 2,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "def test_create_service():\n    client.server_list\ndef test_get_config():\n    print(client.get_config(data_id, group))\ndef test_get_servers():\n    _ = client.server_list\n    print(_)\ndef test_start_watch():\n    def cb(*args,**kwargs):\n        print(args,kwargs)",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_config",
+        "kind": 2,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "def test_get_config():\n    print(client.get_config(data_id, group))\ndef test_get_servers():\n    _ = client.server_list\n    print(_)\ndef test_start_watch():\n    def cb(*args,**kwargs):\n        print(args,kwargs)\n    client.add_config_watcher(data_id, group,cb)\n    client.add_config_watcher(data_id+\"_1\", group,cb)",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_servers",
+        "kind": 2,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "def test_get_servers():\n    _ = client.server_list\n    print(_)\ndef test_start_watch():\n    def cb(*args,**kwargs):\n        print(args,kwargs)\n    client.add_config_watcher(data_id, group,cb)\n    client.add_config_watcher(data_id+\"_1\", group,cb)\nif __name__ == '__main__':\n    test_push_config()",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_start_watch",
+        "kind": 2,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "def test_start_watch():\n    def cb(*args,**kwargs):\n        print(args,kwargs)\n    client.add_config_watcher(data_id, group,cb)\n    client.add_config_watcher(data_id+\"_1\", group,cb)\nif __name__ == '__main__':\n    test_push_config()\n    test_get_config()\n    test_get_servers()\n    test_start_watch()",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_ADDRESSES",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "SERVER_ADDRESSES = \"http://192.168.31.136:8848\"\nNAMESPACE = \"test\"\nclient = nacos.NacosClient(SERVER_ADDRESSES, namespace=NAMESPACE)\ndata_id = \"config.nacos\"\ngroup = \"group\"\ndef test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "NAMESPACE",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "NAMESPACE = \"test\"\nclient = nacos.NacosClient(SERVER_ADDRESSES, namespace=NAMESPACE)\ndata_id = \"config.nacos\"\ngroup = \"group\"\ndef test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''\n                          id:1",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "client = nacos.NacosClient(SERVER_ADDRESSES, namespace=NAMESPACE)\ndata_id = \"config.nacos\"\ngroup = \"group\"\ndef test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''\n                          id:1\n                          '''.strip(), app_name=\"test_app\", config_type=\"yaml\")",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "data_id",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "data_id = \"config.nacos\"\ngroup = \"group\"\ndef test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''\n                          id:1\n                          '''.strip(), app_name=\"test_app\", config_type=\"yaml\")\n    # no auth mode",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    },
+    {
+        "label": "group",
+        "kind": 5,
+        "importPath": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "description": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "peekOfCode": "group = \"group\"\ndef test_push_config():\n    client.publish_config(data_id, group,\n                          '''{\"test\":121213,\"id\":\"12121\",\"name\":\"hello\"}''', app_name=\"test_app\", config_type=\"json\")\n    client.publish_config(data_id + '_1', group,\n                          '''\n                          id:1\n                          '''.strip(), app_name=\"test_app\", config_type=\"yaml\")\n    # no auth mode\n    # auth mode",
+        "detail": "docs.technology.通用知识笔记.中间件.nacos.config_test",
+        "documentation": {}
+    }
+]

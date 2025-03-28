@@ -2,9 +2,11 @@
   "editing-toolbar",
   "markdown-table-editor",
   "obsidian-plantuml",
-  "floating-toc",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-image-toolkit",
-  "terminal"
+  "terminal",
+  "floating-toc",
+  "foldspace-obsidian-helper",
+  "copilot"
 ]
