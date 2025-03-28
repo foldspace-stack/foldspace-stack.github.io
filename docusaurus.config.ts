@@ -135,8 +135,6 @@ const config: Config = {
         property: "twitter:url",
         content: "static/img/share.webp",
       },
-
-
     ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
@@ -158,8 +156,17 @@ const config: Config = {
           label: "产品",
           items: [
             { to: "/docs/services/block-cutter/简介", label: "块剪" },
-            { to: "/docs/services/character-camera/简介", label: "虚拟人摄像头" }
+            {
+              to: "/docs/services/character-camera/简介",
+              label: "虚拟人摄像头",
+            },
           ],
+        },
+        {
+          type: "dropdown",
+          position: "left",
+          label: "工具",
+          items: [],
         },
         {
           type: "dropdown",
@@ -167,8 +174,7 @@ const config: Config = {
           label: "解决方案",
           items: [
             { to: "/docs/category/ai私有化部署", label: "大模型私有部署" },
-            { to: "/docs/category/个人ip孵化", label: "个人IP孵化" }
-
+            { to: "/docs/category/个人ip孵化", label: "个人IP孵化" },
           ],
         },
         {
@@ -197,7 +203,6 @@ const config: Config = {
               to: "/docs/category/通用能力",
               label: "通用能力",
             },
-           
           ],
         },
         {
