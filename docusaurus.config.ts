@@ -74,7 +74,7 @@ const config: Config = {
       category: "General",
       categoryId: "DIC_kwDOLplJx84CezQ_", //
       lang: "zh-CN",
-      theme: "noborder_dark",
+      theme: "transparent_dark",
     },
     metadata: [
       // Declare a <link> preconnect tag
