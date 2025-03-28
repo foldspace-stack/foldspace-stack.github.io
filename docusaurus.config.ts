@@ -136,7 +136,7 @@ const config: Config = {
         content: "static/img/share.webp",
       },
 
-      
+
     ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
@@ -264,7 +264,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Foldspace-Stack group, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Foldspace Group, Inc.`,
     },
     prism: {
       theme: prismThemes.github,
