@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "折叠科技",
-  tagline: "AI时代科技提供商",
+  tagline: "AI服务&软件服务-提供商",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -112,7 +112,13 @@ const config: Config = {
         {
           type: "dropdown",
           position: "left",
-          label: "其他文档",
+          label: "案例",
+          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
+        },
+        {
+          type: "dropdown",
+          position: "left",
+          label: "文档..",
           items: [
             { to: "/docs/category/技术平台", label: "技术平台" },
             {
