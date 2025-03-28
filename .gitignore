@@ -19,3 +19,4 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .obsidian/workspace.json
+.obsidian/plugins/foldspace-draft-to-thin
