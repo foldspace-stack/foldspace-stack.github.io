@@ -197,16 +197,6 @@ const config: Config = {
           position: "right",
         },
         {
-          href: "https://open-ipaas.github.io/",
-          label: "OpenIpaas",
-          position: "right",
-        },
-        {
-          href: "https://little-ddd.github.io/",
-          label: "Little-DDD",
-          position: "right",
-        },
-        {
           href: "https://github.com/foldspace-stack",
           label: "GitHub",
           position: "right",
