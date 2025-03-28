@@ -182,20 +182,22 @@ const config: Config = {
           position: "left",
           label: "文档..",
           items: [
+            { to: "/blog", label: "博客" },
+
+            {
+              to: "docs/category/技术知识随记",
+              label: "技术知识随记",
+            },
+            {
+              to: "docs/category/使用体验",
+              label: "产品体验报告",
+            },
             { to: "/docs/category/技术平台", label: "技术平台" },
             {
               to: "/docs/category/通用能力",
               label: "通用能力",
             },
-            {
-              to: "/docs/category/产品和服务",
-              label: "产品和服务",
-            },
-            {
-              to: "/docs/category/技术知识",
-              label: "技术文章",
-            },
-            { to: "/blog", label: "博客" },
+           
           ],
         },
         {
