@@ -26,6 +26,9 @@ jobs:
     - run: pnpm install
     - run: pnpm run clear
     - run: pnpm run  build
+    - name: copy root 文件
+      run: |
+        cp -vf ./root-files/* ./build/
     - name: Mount NFS Path
       run: |
         mount -t nfs 192.168.31.174:/volume2/k8s-volumes/sapps  /opt/app/sapps|true
