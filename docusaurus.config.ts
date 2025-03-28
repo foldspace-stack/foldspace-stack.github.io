@@ -82,6 +82,30 @@ const config: Config = {
         name: "google-site-verification",
         content: "9kZMOhGH7ZLZ7uSCGZSM7N_IXDlXNKRC-v_G8mbOuGs",
       },
+      {
+        property: "og:title",
+        content: "折叠科技",
+      },
+      {
+        property: "og:description",
+        content: "折叠科技-AI服务商",
+      },
+      {
+        property: "og:image:width",
+        content: "576",
+      },
+      {
+        property: "og:height",
+        content: "1024",
+      },
+      {
+        property: "og:image",
+        content: "/static/img/share.webp",
+      },
+      {
+        property: "og:url",
+        content: "static/img/share.webp",
+      },
     ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
