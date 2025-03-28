@@ -3,12 +3,12 @@ import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: "Foldspace-Stack",
-  tagline: "easy stack for small business",
+  title: "折叠科技",
+  tagline: "AI时代科技提供商",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "http://docs.foldspace.cn",
+  url: "http://www.foldspace.cn",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -42,7 +42,7 @@ const config: Config = {
         },
         //googleAnalytics: {
         gtag: {
-          trackingID: 'G-DMW09C95L0',
+          trackingID: "G-DMW09C95L0",
           anonymizeIP: true,
         },
         sitemap: {
@@ -85,10 +85,10 @@ const config: Config = {
     ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "FoldSpace-Stack",
+      title: "折叠科技",
       logo: {
         alt: "FoldSpace",
-        src: "img/foldspace-icon.png",
+        src: "img/foldspace-icon-2.webp",
       },
       items: [
         {
@@ -97,23 +97,39 @@ const config: Config = {
           position: "left",
           label: "简介",
         },
-        { to: "/docs/category/技术平台", label: "技术平台", position: "left" },
         {
-          to: "/docs/category/通用能力",
-          label: "通用能力",
+          type: "dropdown",
           position: "left",
+          label: "产品",
+          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
         },
         {
-          to: "/docs/category/产品和服务",
-          label: "产品和服务",
+          type: "dropdown",
           position: "left",
+          label: "解决方案",
+          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
         },
         {
-          to: "/docs/category/技术知识",
-          label: "技术文章",
+          type: "dropdown",
           position: "left",
+          label: "其他文档",
+          items: [
+            { to: "/docs/category/技术平台", label: "技术平台" },
+            {
+              to: "/docs/category/通用能力",
+              label: "通用能力",
+            },
+            {
+              to: "/docs/category/产品和服务",
+              label: "产品和服务",
+            },
+            {
+              to: "/docs/category/技术知识",
+              label: "技术文章",
+            },
+            { to: "/blog", label: "博客" },
+          ],
         },
-        { to: "/blog", label: "博客", position: "left" },
         {
           href: "https://foldspace.cn/",
           label: "Foldspace",
