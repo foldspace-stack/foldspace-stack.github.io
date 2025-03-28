@@ -58,7 +58,7 @@ const FeatureList: FeatureItem[] = [
 
 function Feature({ title, Svg, imgSrc,videoSrc,description }: FeatureItem) {
   return (
-    <div className={clsx("col col--4")} >
+    <div className={clsx("col col--4")} style={{marginTop:52}}>
       <div className="text--center" style={{marginBottom:52}}>
         {imgSrc?<img className="feature-img" src={imgSrc}/>: <Svg className={styles.featureSvg} role="img" />}
       </div>
