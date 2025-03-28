@@ -20,5 +20,5 @@ yarn-debug.log*
 yarn-error.log*
 .obsidian/workspace.json
 .obsidian/plugins/foldspace-draft-to-thin
-pnpm-lock.yaml
+#pnpm-lock.yaml
 .obsidian/plugins/foldspace-*
