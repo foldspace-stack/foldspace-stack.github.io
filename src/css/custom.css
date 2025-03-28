@@ -29,10 +29,27 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
-header.hero{
+header.hero {
   background-image: url("/static/img/blanner.webp");
-  background-size:cover;
+  background-color: unset;
+  background-size: cover;
+  min-height: 576px;
+  position: relative;
+
 }
-.navbar__logo{
+
+
+.navbar__logo {
   margin-right: 32px;
+}
+
+section.features_src-components-HomepageFeatures-styles-module {
+  /** background-image: url("/static/img/feature/feature-bg.webp");**/
+  background-size: cover;
+}
+
+.feature-img{
+  border-radius: 30%; /* 圆角半径 */
+  width: 256px; /* 设置宽度 */
+  height: auto; /* 保持纵横比 */
 }

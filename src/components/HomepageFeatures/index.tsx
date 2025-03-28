@@ -5,6 +5,8 @@ import styles from "./styles.module.css";
 type FeatureItem = {
   title: string;
   Svg: React.ComponentType<React.ComponentProps<"svg">>;
+  imgSrc?:string,
+  videoSrc?:string,
   description: JSX.Element;
 };
 
@@ -12,6 +14,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: "AI私有化部署解决方案",
     Svg: require("./svgs/item1.svg").default,
+    imgSrc:require("./svgs/item1.webp").default,
     description: (
       <>
         <p>√ 自主可控的垂直领域大模型</p>
@@ -25,6 +28,8 @@ const FeatureList: FeatureItem[] = [
   {
     title: "智能ERP&软件定制",
     Svg: require("./svgs/item2.svg").default,
+    imgSrc:require("./svgs/item2.webp").default,
+
     description: (
       <>
         <p>√ 行业化深度定制（制造/零售/医疗专属方案）</p>
@@ -38,6 +43,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: "MCN全域IP孵化",
     Svg: require("./svgs/item3.svg").default,
+    imgSrc:require("./svgs/item3.webp").default,
     description: (
       <>
         <p>√ 达人矩阵生态构建 </p>
@@ -50,11 +56,11 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({ title, Svg, description }: FeatureItem) {
+function Feature({ title, Svg, imgSrc,videoSrc,description }: FeatureItem) {
   return (
-    <div className={clsx("col col--4")}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+    <div className={clsx("col col--4")} >
+      <div className="text--center" style={{marginBottom:52}}>
+        {imgSrc?<img className="feature-img" src={imgSrc}/>: <Svg className={styles.featureSvg} role="img" />}
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
