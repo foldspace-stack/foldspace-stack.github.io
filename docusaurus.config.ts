@@ -106,6 +106,37 @@ const config: Config = {
         property: "og:url",
         content: "static/img/share.webp",
       },
+
+      {
+        property: "twitter:card",
+        content: "@折叠科技",
+      },
+      {
+        property: "twitter:title",
+        content: "@折叠科技",
+      },
+      {
+        property: "twitter:description",
+        content: "折叠科技-AI服务商",
+      },
+      {
+        property: "twitter:image:width",
+        content: "576",
+      },
+      {
+        property: "twitter:height",
+        content: "1024",
+      },
+      {
+        property: "twitter:image",
+        content: "/static/img/share.webp",
+      },
+      {
+        property: "twitter:url",
+        content: "static/img/share.webp",
+      },
+
+      
     ],
     image: "img/docusaurus-social-card.jpg",
     navbar: {
