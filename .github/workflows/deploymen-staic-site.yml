@@ -28,13 +28,19 @@ jobs:
         with:
           node-version: 20.15.1
           cache: "pnpm"
-
+      - name: feishu-bot-yc
+        uses: Comori/feishu@v0.0.3
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          msg-type: card
+          title: 官网发布开始
+          content: |
+            开始官网发布 https://github.com/foldspace-stack/foldspace-stack.github.io/actions/workflows/deploymen-staic-site.yml
       - run: pnpm install
-
       - run: pnpm run clear
-      
+
       - run: pnpm run  build
-      
+
       - name: copy root 文件
         run: |
           cp -vf ./root-files/* ./build/
@@ -45,3 +51,11 @@ jobs:
       - name: copy file
         run: |
           cp -vrf ./build/* /opt/app/sapps/foldspace-stack.github.io/
+      - name: feishu-bot-yc
+        uses: Comori/feishu@v0.0.3
+        with:
+          webhook-url: ${{ secrets.WEBHOOK_URL }}
+          msg-type: card
+          title: 官网发布开始
+          content: |
+            开始官网结束 https://www.foldspace.cn/
