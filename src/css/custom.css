@@ -49,7 +49,7 @@ section.features_src-components-HomepageFeatures-styles-module {
 }
 
 .feature-img{
-  border-radius: 30%; /* 圆角半径 */
+  border-radius: 30% 30% 0 0; /* 圆角半径 */
   width: 256px; /* 设置宽度 */
   height: auto; /* 保持纵横比 */
 }
