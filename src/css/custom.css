@@ -35,9 +35,23 @@ header.hero {
   background-size: cover;
   min-height: 576px;
   position: relative;
+  background-repeat:no-repeat;
 
 }
 
+/* 针对移动设备的样式 */
+@media (max-width: 600px) {
+  header.hero {
+    background-image: url("/static/img/bg-m.webp");
+    background-color: unset;
+    background-size: contain;
+    min-height: 576px;
+    position: relative;
+    background-repeat:no-repeat;
+
+  }
+  
+}
 
 .navbar__logo {
   margin-right: 32px;
