@@ -1,11 +1,12 @@
 . ./.env
 git pull
 #npm run clear
-npm run build
+#npm run build
 ret=$?
 if [ $ret -eq 0 ]
 then
    echo "In If"
+   git add static
    git add docs
    git add blog
    git add templates
