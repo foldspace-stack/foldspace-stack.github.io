@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "折叠科技",
-  tagline: "AI服务&软件服务-提供商",
+  tagline: "AI服务&软件服务&IP孵化&解决方案定制",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
