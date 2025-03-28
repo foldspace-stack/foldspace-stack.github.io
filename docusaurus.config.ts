@@ -156,19 +156,26 @@ const config: Config = {
           type: "dropdown",
           position: "left",
           label: "产品",
-          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
+          items: [
+            { to: "/docs/services/block-cutter/简介", label: "块剪" },
+            { to: "/docs/services/character-camera/简介", label: "虚拟人摄像头" }
+          ],
         },
         {
           type: "dropdown",
           position: "left",
           label: "解决方案",
-          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
+          items: [
+            { to: "/docs/category/ai私有化部署", label: "大模型私有部署" },
+            { to: "/docs/category/个人ip孵化", label: "个人IP孵化" }
+
+          ],
         },
         {
           type: "dropdown",
           position: "left",
-          label: "案例",
-          items: [{ to: "/docs/category/技术平台", label: "技术平台" }],
+          label: "客户&案例",
+          items: [{ to: "/docs/user-cases/case1/案例1", label: "案例1" }],
         },
         {
           type: "dropdown",
