@@ -44,8 +44,7 @@ header.hero {
   header.hero {
     background-image: url("/static/img/bg-m.webp");
     background-color: unset;
-    background-size: contain;
-    min-height: 576px;
+    background-size: cover;
     position: relative;
     background-repeat:no-repeat;
 
