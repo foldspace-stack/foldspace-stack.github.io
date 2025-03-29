@@ -269,7 +269,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Foldspace Group, Inc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Foldspace Group, Inc.  Changsha/hangzhou China`,
     },
     prism: {
       theme: prismThemes.github,
