@@ -46,6 +46,7 @@
       "enabled": true,
       "isBuiltIn": true,
       "core": true,
+      "plusExclusive": true,
       "capabilities": [
         "vision"
       ]
@@ -148,7 +149,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "plusExclusive": true
     },
     {
       "name": "copilot-plus-large",
@@ -157,6 +159,7 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
+      "plusExclusive": true,
       "believerExclusive": true,
       "dimensions": 1024
     },
@@ -167,6 +170,7 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
+      "plusExclusive": true,
       "dimensions": 512
     },
     {
